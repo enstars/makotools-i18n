@@ -4,5 +4,5 @@ git:
       file_format: KEYVALUEJSON
       source_file_extension: json
       source_language: en
-      source_file_dir: tls/en/
-      translation_files_expression: 'tls/<lang>/'
+      source_file_dir: en/
+      translation_files_expression: "<lang>/"
