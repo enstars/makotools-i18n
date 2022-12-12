@@ -1,35 +1,35 @@
 {
-  "welcome": "マコツールへようこそ！",
-  "supportOnPatreon": "Support us on Patreon!",
-  "createAccount": "Create an account!",
+  "welcome": "まこツールズへようこそ！",
+  "supportOnPatreon": "Patreonサポートはこちらから",
+  "createAccount": "新規登録",
   "banner": {
-    "birthday": "Happy birthday, {{name}}!",
-    "scout": "SCOUT! {{name}}",
+    "birthday": "本日は{{name}}の誕生日！",
+    "scout": "スカウト！{{name}}",
     "fs": "{{name}}"
   },
   "event": {
-    "start": "Starts in ",
-    "end": "Ends in ",
-    "current": "Current Events",
-    "next": "Next Events",
-    "seeAll": "See all events",
-    "eventCalculator": "Event Calculator"
+    "start": "開催まで",
+    "end": "残り",
+    "current": "イベント開催中",
+    "next": "イベント開催予定",
+    "seeAll": "イベント一覧",
+    "eventCalculator": "イベント計算器"
   },
   "scout": {
-    "end": "Ends in ",
-    "current": "Current Scouts",
-    "seeAll": "See all scouts",
-    "scout": "SCOUT! {{name}}",
+    "end": "残り",
+    "current": "スカウト開催中",
+    "seeAll": "スカウト一覧",
+    "scout": "スカウト！{{name}}",
     "fs": "{{name}}"
   },
   "announcements": {
-    "title": "Site Announcements",
-    "fetchError": "Error fetching latest announcements",
-    "seeAll": "See all announcements"
+    "title": "サイトお知らせ",
+    "fetchError": "サイトお知らせの取得に失敗しました。",
+    "seeAll": "サイトお知らせ一覧"
   },
   "upcomingCampaigns": {
-    "title": "Upcoming Campaigns",
-    "seeAll": "See full calendar"
+    "title": "キャンペーン開催予定",
+    "seeAll": "もっと見る"
   },
   "--": "--"
 }
