@@ -1,0 +1,35 @@
+{
+  "welcome": "¡Bienvenidos a MakoTools!",
+  "supportOnPatreon": "¡Apóyanos en Patreon!",
+  "createAccount": "¡Crea una cuenta!",
+  "banner": {
+    "birthday": "¡Feliz cumpleaños, {{name}}!",
+    "scout": "¡SCOUT! {{name}}",
+    "fs": "{{name}}"
+  },
+  "event": {
+    "start": "Empieza en",
+    "end": "Termina en",
+    "current": "Eventos en progreso",
+    "next": "Próximos eventos",
+    "seeAll": "Ver todos los Eventos",
+    "eventCalculator": "Calculadora de Eventos"
+  },
+  "scout": {
+    "end": "Termina en",
+    "current": "Scouts en progreso",
+    "seeAll": "Ver todos los Scouts",
+    "scout": "¡SCOUT! {{name}}",
+    "fs": "{{name}}"
+  },
+  "announcements": {
+    "title": "Anuncios del Sitio",
+    "fetchError": "Error al cargar los últimos anuncios",
+    "seeAll": "Ver todos los anuncios"
+  },
+  "upcomingCampaigns": {
+    "title": "Próximas Campañas",
+    "seeAll": "Ver el calendario completo"
+  },
+  "--": "--"
+}
