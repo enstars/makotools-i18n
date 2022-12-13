@@ -1,0 +1,35 @@
+{
+  "welcome": "Witam w MakoPrzyborniku!",
+  "supportOnPatreon": "Wesprzyj nas na Patreonie!",
+  "createAccount": "Załóż konto!",
+  "banner": {
+    "birthday": "Wszystkiego najlepszego, {{name}}!",
+    "scout": "SCOUT! {{name}}",
+    "fs": "{{name}}"
+  },
+  "event": {
+    "start": "Zaczyna się za {{time}}",
+    "end": "Kończy się za {{time}}",
+    "current": "Obecne Eventy",
+    "next": "Nadchodzące Eventy",
+    "seeAll": "Zobacz wszystkie eventy",
+    "eventCalculator": "Kalkulator Eventowy"
+  },
+  "scout": {
+    "end": "Kończy się za ",
+    "current": "Obecne Scouty",
+    "seeAll": "Zobacz wszystkie scouty",
+    "scout": "SCOUT! {{name}}",
+    "fs": "{{name}}"
+  },
+  "announcements": {
+    "title": "Ogłoszenia",
+    "fetchError": "Błąd w ładowaniu najnowszych ogłoszeń",
+    "seeAll": "Zobacz wszystkie ogłoszenia"
+  },
+  "upcomingCampaigns": {
+    "title": "Nadchodzące Wydarzenia",
+    "seeAll": "Zobacz cały kalendarz"
+  },
+  "--": "--"
+}
