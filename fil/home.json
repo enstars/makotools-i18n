@@ -1,0 +1,35 @@
+{
+  "welcome": "Mabuhay! Maligayang pagdating sa MakoTools!",
+  "supportOnPatreon": "Suportahan kami sa Patreon!",
+  "createAccount": "Gumawa ng account!",
+  "banner": {
+    "birthday": "Maligayang kaarawan, {{pangalan}}!",
+    "scout": "SCOUT! {{pangalan}}",
+    "fs": "{{pangalan}}"
+  },
+  "event": {
+    "start": "Magsisimula sa",
+    "end": "Matatapos ng",
+    "current": "Mga Kasalukuyang Events",
+    "next": "Mga Susunod na Events",
+    "seeAll": "Tignan ang lahat ng events",
+    "eventCalculator": "Calculator para sa mga Events"
+  },
+  "scout": {
+    "end": "Matatapos ng",
+    "current": "Mga Kasulukuyang Scouts",
+    "seeAll": "Tignan ang lahat ng scouts",
+    "scout": "SCOUT! {{pangalan}}",
+    "fs": "{{pangalan}}"
+  },
+  "announcements": {
+    "title": "Mga anunsyo ng site",
+    "fetchError": "Pagkakamali sa kuha ng bagong anunsyo",
+    "seeAll": "Tignan ang lahat ng anunsyo"
+  },
+  "upcomingCampaigns": {
+    "title": "Mga susunod na Campaigns",
+    "seeAll": "Tignan ang buong kalendaryo"
+  },
+  "--": "--"
+}
