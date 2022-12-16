@@ -1,0 +1,35 @@
+{
+  "welcome": "歡迎使用【馬克具】！",
+  "supportOnPatreon": "訂閲 Patreon 支持我們！",
+  "createAccount": "建立新帳戶",
+  "banner": {
+    "birthday": "生日快樂，{{名}}！",
+    "scout": "招募！{{名}}",
+    "fs": "{{名}}"
+  },
+  "event": {
+    "start": "即將於【日期】開啟",
+    "end": "即將於【日期】停止",
+    "current": "最新活動",
+    "next": "下個活動",
+    "seeAll": "查看所有活動",
+    "eventCalculator": "活動計算機"
+  },
+  "scout": {
+    "end": "即將於【日期】停止",
+    "current": "最新招募",
+    "seeAll": "查看所有招募",
+    "scout": "招募！{{名}}",
+    "fs": "{{名}}"
+  },
+  "announcements": {
+    "title": "網站公報",
+    "fetchError": "發生錯誤，你無法查看此最新公報",
+    "seeAll": "查看所有公報"
+  },
+  "upcomingCampaigns": {
+    "title": "即將活動",
+    "seeAll": "查看活動日曆"
+  },
+  "--": "--"
+}
