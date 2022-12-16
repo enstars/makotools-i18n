@@ -1,5 +1,5 @@
 {
-  "welcome": "Selamat datang di MakoTools!",
+  "welcome": "Selamat datang di Kaca-Mako!",
   "supportOnPatreon": "Dukung kami di Patreon!",
   "createAccount": "Buat akun!",
   "banner": {
@@ -18,7 +18,7 @@
   "scout": {
     "end": "Berakhir dalam {{time}}",
     "current": "Scout Berlangsung",
-    "seeAll": "Lihat daftar semua scout",
+    "seeAll": "Lihat semua scout",
     "scout": "SCOUT! {{name}}",
     "fs": "{{name}}"
   },
