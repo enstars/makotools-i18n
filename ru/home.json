@@ -24,7 +24,7 @@
   },
   "announcements": {
     "title": "Объявления ",
-    "fetchError": "Ошибка обновления ",
+    "fetchError": "Ошибка доступа объявлений ",
     "seeAll": "Просмотр объявлений"
   },
   "upcomingCampaigns": {
