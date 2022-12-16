@@ -16,7 +16,7 @@
     "eventCalculator": "Event Rechner"
   },
   "scout": {
-    "end": "Endet in ",
+    "end": "Endet in {{time}}",
     "current": "Aktuelle Scouts",
     "seeAll": "Alle Scouts anzeigen",
     "scout": "SCOUT! {{name}}",
