@@ -24,7 +24,7 @@
   },
   "announcements": {
     "title": "Mga anunsyo ng site",
-    "fetchError": "Pagkakamali sa kuha ng bagong anunsyo",
+    "fetchError": "May error sa pagkuha ng bagong anunsyo",
     "seeAll": "Tignan ang lahat ng anunsyo"
   },
   "upcomingCampaigns": {
