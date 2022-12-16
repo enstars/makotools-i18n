@@ -8,24 +8,24 @@
     "fs": "{{name}}"
   },
   "event": {
-    "start": "Empieza en",
-    "end": "Termina en",
+    "start": "Empieza en {{time}}",
+    "end": "Termina en {{time}}",
     "current": "Eventos en progreso",
-    "next": "Próximos eventos",
+    "next": "Próximos Eventos",
     "seeAll": "Ver todos los Eventos",
     "eventCalculator": "Calculadora de Eventos"
   },
   "scout": {
-    "end": "Termina en",
+    "end": "Termina en {{time}}",
     "current": "Scouts en progreso",
     "seeAll": "Ver todos los Scouts",
     "scout": "¡SCOUT! {{name}}",
     "fs": "{{name}}"
   },
   "announcements": {
-    "title": "Anuncios del Sitio",
-    "fetchError": "Error al cargar los últimos anuncios",
-    "seeAll": "Ver todos los anuncios"
+    "title": "Noticias del Sitio",
+    "fetchError": "Error al cargar las últimas noticias",
+    "seeAll": "Ver todas las noticias"
   },
   "upcomingCampaigns": {
     "title": "Próximas Campañas",
