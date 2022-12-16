@@ -3,7 +3,7 @@
   "supportOnPatreon": "สนับสนุนพวกเราบน Patreon",
   "createAccount": "สร้างบัญชีใหม่เลย!",
   "banner": {
-    "birthday": "แฮปปี้เบิร์ธเดิย์ {{name}}!",
+    "birthday": "แฮปปี้เบิร์ธเดย์ {{name}}!",
     "scout": "สเกาต์! {{name}}",
     "fs": "{{name}}"
   },
