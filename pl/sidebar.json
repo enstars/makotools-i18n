@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Postacie",
+    "cards": "Karty",
+    "events": "Eventy",
+    "scouts": "Scouty",
+    "stories": "Historie",
+    "calendar": "Kalendarz",
+    "about": "O nas",
+    "patreon": "Patreon",
+    "user": "Użytkownik"
+  },
+  "searchbarMessage": "Szukaj...",
+  "menu": {
+    "quickSettings": "Szybkie ustawienia",
+    "darkMode": "Tryb ciemny",
+    "account": "Konto",
+    "settings": "Ustawienia",
+    "logout": "Wyloguj się",
+    "login": "Zaloguj się",
+    "notLoggedIn": "Niezalogowano",
+    "loading": "Ładowanie..."
+  },
+  "collapseSidebar": "Zwiń",
+  "breadcrumbTitle": "MakoPrzybornik"
+}
