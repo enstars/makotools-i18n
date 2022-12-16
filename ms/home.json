@@ -1,0 +1,35 @@
+{
+  "welcome": "Selamat datang ke Makotools!",
+  "supportOnPatreon": "Berikan sokongan kepada kita di Patreon!",
+  "createAccount": "Buat akaun!",
+  "banner": {
+    "birthday": "Selamat Hari Jadi, {{nama}}!",
+    "scout": "SCOUT! {{name}}",
+    "fs": "{{nama}}"
+  },
+  "event": {
+    "start": "Bermula dalam",
+    "end": "Berhabis dalam",
+    "current": "Acara yang berlangsung",
+    "next": "Acara Seterusnya ",
+    "seeAll": "Tengok semua acara",
+    "eventCalculator": "Kalkulator Acara"
+  },
+  "scout": {
+    "end": "Habis dalam",
+    "current": "Scout Yang Berlangsung",
+    "seeAll": "Tengok semua scout",
+    "scout": "SCOUT! {{name}}",
+    "fs": "{{nama}}"
+  },
+  "announcements": {
+    "title": "Site Announcements",
+    "fetchError": "Error fetching latest announcements",
+    "seeAll": "Tengok semua pengumuman "
+  },
+  "upcomingCampaigns": {
+    "title": "Kempen Akan Datang",
+    "seeAll": "Tengok kalendar penuh"
+  },
+  "--": "--"
+}
