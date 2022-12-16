@@ -1,0 +1,35 @@
+{
+  "welcome": "Chào mừng đến Công Cụ của Makoto!",
+  "supportOnPatreon": "Ủng hộ chúng tôi trên Patreon!",
+  "createAccount": "Tạo tài khoản mới!",
+  "banner": {
+    "birthday": "Chúc mừng sinh nhật, {{name}}!",
+    "scout": "SCOUT! {{name}}",
+    "fs": "{{name}}"
+  },
+  "event": {
+    "start": "Bắt đầu trong",
+    "end": "Kết thúc trong",
+    "current": "Những sự kiện đang diễn ra",
+    "next": "Những sự kiện tiếp theo",
+    "seeAll": "Hiện toàn bộ những sự kiện",
+    "eventCalculator": "Máy tính sự kiện"
+  },
+  "scout": {
+    "end": "Kết thúc trong",
+    "current": "Những scout đang diễn ra",
+    "seeAll": "Hiện toàn bộ scout",
+    "scout": "SCOUT! {{name}}",
+    "fs": "{{name}}"
+  },
+  "announcements": {
+    "title": "Thông Báo",
+    "fetchError": "Dữ liệu thông báo mới nhất bị lỗi",
+    "seeAll": "Hiện toàn bộ thông báo"
+  },
+  "upcomingCampaigns": {
+    "title": "Những chiến dịch sắp tới",
+    "seeAll": "Hiện toàn bộ lịch trình"
+  },
+  "--": "--"
+}
