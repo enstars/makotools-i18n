@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Nhân Vật",
+    "cards": "Thẻ",
+    "events": "Sự kiện",
+    "scouts": "Scouts",
+    "stories": "Truyện",
+    "calendar": "Lịch trình",
+    "about": "Giới thiệu",
+    "patreon": "Patreon",
+    "user": "Người dùng"
+  },
+  "searchbarMessage": "Tìm kiếm...",
+  "menu": {
+    "quickSettings": "Cài đặt nhanh",
+    "darkMode": "Chế độ tối",
+    "account": "Tài khoản",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất",
+    "login": "Đăng nhập",
+    "notLoggedIn": "Chưa đăng nhập",
+    "loading": "Đang tải..."
+  },
+  "collapseSidebar": "Thu nhỏ",
+  "breadcrumbTitle": "Công Cụ của Mako"
+}
