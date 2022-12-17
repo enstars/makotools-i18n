@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Karakter ",
+    "cards": "Kad",
+    "events": "Acara",
+    "scouts": "Scouts",
+    "stories": "Cerita",
+    "calendar": "Kalendar",
+    "about": "Tentang",
+    "patreon": "Patreon",
+    "user": "Pengguna"
+  },
+  "searchbarMessage": "Cari",
+  "menu": {
+    "quickSettings": "Tetapan pantas",
+    "darkMode": "Mod Gelap",
+    "account": "Akaun",
+    "settings": "Tetapan",
+    "logout": "Log keluar",
+    "login": "Log masuk",
+    "notLoggedIn": "Belum log masuk",
+    "loading": "Memuatkan... "
+  },
+  "collapseSidebar": "Jatuh",
+  "breadcrumbTitle": "MakoTools"
+}
