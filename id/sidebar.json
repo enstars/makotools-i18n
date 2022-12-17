@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Karakter",
+    "cards": "Kartu",
+    "events": "Events",
+    "scouts": "Scouts",
+    "stories": "Cerita",
+    "calendar": "Kalender",
+    "about": "Tentang",
+    "patreon": "Patreon",
+    "user": "Pengguna"
+  },
+  "searchbarMessage": "Cari...",
+  "menu": {
+    "quickSettings": "Pengaturan Cepat",
+    "darkMode": "Mode Gelap",
+    "account": "Akun",
+    "settings": "Pengaturan",
+    "logout": "Keluar",
+    "login": "Masuk",
+    "notLoggedIn": "Belum Masuk",
+    "loading": "Memuat..."
+  },
+  "collapseSidebar": "Tutup",
+  "breadcrumbTitle": "Kaca-Mako"
+}
