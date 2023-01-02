@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "Calendário Do Jogo",
+  "calendar": {
+    "month": "Mês",
+    "day": "Dia"
+  },
+  "monthViewLabels": {
+    "birthday": "Aniver {{name}}!",
+    "fs": "{{name}} SED",
+    "scout": "SC! {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "Aniversário de {{name}}",
+    "fs": "{{name}}",
+    "scout": "SCOUT! {{name}}",
+    "event": "{{name}}"
+  }
+}
