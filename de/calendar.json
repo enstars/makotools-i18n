@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "Game Kalender",
+  "calendar": {
+    "month": "Monat",
+    "day": "Tag"
+  },
+  "monthViewLabels": {
+    "birthday": "HBD {{name}}!",
+    "fs": "{{name}} FS",
+    "scout": "SC! {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "{{name}}'s Geburtstag",
+    "fs": "{{name}}",
+    "scout": "SCOUT! {{name}}",
+    "event": "{{name}}"
+  }
+}
