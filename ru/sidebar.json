@@ -7,18 +7,20 @@
     "stories": "Истории",
     "calendar": "Календарь",
     "about": "О нас",
-    "patreon": "«Патреон»",
+    "patreon": "Патреон",
     "user": "Профиль"
   },
   "searchbarMessage": "Поиск...",
   "menu": {
     "quickSettings": "Быстрые настройки",
     "darkMode": "Тёмный режим",
+    "userTheme": "Тема",
+    "locale": "Язык",
     "account": "Аккаунт",
     "settings": "Настройки ",
     "logout": "Выйти",
     "login": "Войти",
-    "notLoggedIn": "Вы не вошли",
+    "notLoggedIn": "Вы не авторизованы",
     "loading": "Загрузка..."
   },
   "collapseSidebar": "Свернуть",
