@@ -14,6 +14,8 @@
   "menu": {
     "quickSettings": "Pesquisa Rápida",
     "darkMode": "Modo Escuro",
+    "userTheme": "Tema",
+    "locale": "Idioma",
     "account": "Conta",
     "settings": "Configurações",
     "logout": "Sair",
