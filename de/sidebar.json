@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Charaktere",
+    "cards": "Karten",
+    "events": "Events",
+    "scouts": "Scouts",
+    "stories": "Stories",
+    "calendar": "Kalender",
+    "about": "Über MakoTools",
+    "patreon": "Patreon",
+    "user": "User"
+  },
+  "searchbarMessage": "Suchen...",
+  "menu": {
+    "quickSettings": "Schnelleinstellungen",
+    "darkMode": "Dark Mode",
+    "account": "Account",
+    "settings": "Einstellungen",
+    "logout": "Ausloggen",
+    "login": "Einloggen",
+    "notLoggedIn": "Nicht eingeloggt",
+    "loading": "Laden..."
+  },
+  "collapseSidebar": "Minimieren",
+  "breadcrumbTitle": "MakoTools"
+}

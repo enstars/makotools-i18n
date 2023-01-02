@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Tauhan",
+    "cards": "Cards",
+    "events": "Events",
+    "scouts": "Scouts",
+    "stories": "Kuwento",
+    "calendar": "Kalendaryo",
+    "about": "Tungkol",
+    "patreon": "Patreon",
+    "user": "User"
+  },
+  "searchbarMessage": "Hanapin...",
+  "menu": {
+    "quickSettings": "Mabilis na Settings",
+    "darkMode": "Madilim na Mode",
+    "account": "Account",
+    "settings": "Settings",
+    "logout": "I-log out",
+    "login": "I-log in",
+    "notLoggedIn": "Hindi nakalog-in",
+    "loading": "Naglo-load..."
+  },
+  "collapseSidebar": "Isara",
+  "breadcrumbTitle": "MakoGamit"
+}

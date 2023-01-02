@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Personnages",
+    "cards": "Cartes",
+    "events": "Événements",
+    "scouts": "Scouts",
+    "stories": "Histoires",
+    "calendar": "Calendrier",
+    "about": "À propos",
+    "patreon": "Patreon",
+    "user": "Utilisateur"
+  },
+  "searchbarMessage": "Rechercher...",
+  "menu": {
+    "quickSettings": "Réglages Rapides",
+    "darkMode": "Mode sombre",
+    "account": "Compte",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "notLoggedIn": "Pas Connecté",
+    "loading": "Chargement..."
+  },
+  "collapseSidebar": "Réduire",
+  "breadcrumbTitle": "MakoOutils"
+}

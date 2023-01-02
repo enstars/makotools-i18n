@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "Персонажи",
+    "cards": "Карты",
+    "events": "Ивенты",
+    "scouts": "Скауты",
+    "stories": "Истории",
+    "calendar": "Календарь",
+    "about": "О нас",
+    "patreon": "«Патреон»",
+    "user": "Профиль"
+  },
+  "searchbarMessage": "Поиск...",
+  "menu": {
+    "quickSettings": "Быстрые настройки",
+    "darkMode": "Тёмный режим",
+    "account": "Аккаунт",
+    "settings": "Настройки ",
+    "logout": "Выйти",
+    "login": "Войти",
+    "notLoggedIn": "Вы не вошли",
+    "loading": "Загрузка..."
+  },
+  "collapseSidebar": "Свернуть",
+  "breadcrumbTitle": "MakoTools"
+}

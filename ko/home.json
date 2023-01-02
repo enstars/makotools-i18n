@@ -1,0 +1,35 @@
+{
+  "welcome": "마코툴즈에 오신것을 환영합니다!",
+  "supportOnPatreon": "패트리온에서 지원해주세요!",
+  "createAccount": "계정을 만들어보세요!",
+  "banner": {
+    "birthday": "생일 축하합니다, {{name}}!",
+    "scout": "스카우트! {{name}}",
+    "fs": "{{name}}"
+  },
+  "event": {
+    "start": "시작합니다",
+    "end": "끝이납니다",
+    "current": "진행중인 이벤트",
+    "next": "다음 이벤트",
+    "seeAll": "모든 이벤트 확인하기",
+    "eventCalculator": "이벤트 계산기"
+  },
+  "scout": {
+    "end": "끝이납니다",
+    "current": "진행중인 스카우트",
+    "seeAll": "모든 스카우트 확인하기",
+    "scout": "스카우트! {{name}}",
+    "fs": "{{name}}"
+  },
+  "announcements": {
+    "title": "사이트 공지사항",
+    "fetchError": "최신 공지사항을 가져오는 도중에 오류가 발생했습니다",
+    "seeAll": "모든 공지사항 확인하기"
+  },
+  "upcomingCampaigns": {
+    "title": "다가오는 캠페인",
+    "seeAll": "전체 일정 보기"
+  },
+  "--": "--"
+}

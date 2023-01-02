@@ -1,0 +1,26 @@
+{
+  "links": {
+    "characters": "캐릭터",
+    "cards": "카드",
+    "events": "이벤트",
+    "scouts": "스카우트",
+    "stories": "스토리",
+    "calendar": "달력",
+    "about": "대해서",
+    "patreon": "패트리온",
+    "user": "사용자"
+  },
+  "searchbarMessage": "검색...",
+  "menu": {
+    "quickSettings": "빠른 설정",
+    "darkMode": "다크 모드",
+    "account": "계정",
+    "settings": "설정",
+    "logout": "로그 아웃",
+    "login": "로그인",
+    "notLoggedIn": "로그인하지 않았습니다",
+    "loading": "로딩중..."
+  },
+  "collapseSidebar": "접기",
+  "breadcrumbTitle": "마코툴즈"
+}
