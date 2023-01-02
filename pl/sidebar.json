@@ -14,11 +14,13 @@
   "menu": {
     "quickSettings": "Szybkie ustawienia",
     "darkMode": "Tryb ciemny",
+    "userTheme": "Wygląd",
+    "locale": "Język",
     "account": "Konto",
     "settings": "Ustawienia",
     "logout": "Wyloguj się",
     "login": "Zaloguj się",
-    "notLoggedIn": "Niezalogowano",
+    "notLoggedIn": "Niezalogowany",
     "loading": "Ładowanie..."
   },
   "collapseSidebar": "Zwiń",
