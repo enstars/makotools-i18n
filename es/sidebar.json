@@ -14,6 +14,8 @@
   "menu": {
     "quickSettings": "Ajustes Rápidos",
     "darkMode": "Modo Oscuro",
+    "userTheme": "Tema",
+    "locale": "Idioma",
     "account": "Cuenta",
     "settings": "Ajustes",
     "logout": "Cerrar sesión",
