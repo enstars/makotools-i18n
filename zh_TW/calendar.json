@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "游戲日曆",
+  "calendar": {
+    "month": "月",
+    "day": "日"
+  },
+  "monthViewLabels": {
+    "birthday": "生日快樂，{{name}}！",
+    "fs": "{{name}} 特別招募",
+    "scout": "招募！{{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "{{name}} 的生日",
+    "fs": "{{name}}",
+    "scout": "招募！{{name}}",
+    "event": "{{name}}"
+  }
+}
