@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "ปฏิทินเกม",
+  "calendar": {
+    "month": "เดือน",
+    "day": "วันที่"
+  },
+  "monthViewLabels": {
+    "birthday": "สสวก. {{name}}!",
+    "fs": "{{name}} FS",
+    "scout": "SC! {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "วันเกิด{{name}}",
+    "fs": "{{name}}",
+    "scout": "สเกาท์! {{name}}",
+    "event": "{{name}}"
+  }
+}
