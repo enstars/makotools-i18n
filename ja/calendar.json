@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "ゲームカレンダー",
+  "calendar": {
+    "month": "月",
+    "day": "日"
+  },
+  "monthViewLabels": {
+    "birthday": "誕生日:{{name}}",
+    "fs": "{{name}} F",
+    "scout": "S {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "{{name}}の誕生日",
+    "fs": "{{name}}",
+    "scout": "スカウト！{{name}}",
+    "event": "{{name}}"
+  }
+}
