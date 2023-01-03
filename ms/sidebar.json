@@ -10,10 +10,12 @@
     "patreon": "Patreon",
     "user": "Pengguna"
   },
-  "searchbarMessage": "Cari",
+  "searchbarMessage": "Cari... ",
   "menu": {
     "quickSettings": "Tetapan pantas",
     "darkMode": "Mod Gelap",
+    "userTheme": "Tema",
+    "locale": "Bahasa",
     "account": "Akaun",
     "settings": "Tetapan",
     "logout": "Log keluar",
