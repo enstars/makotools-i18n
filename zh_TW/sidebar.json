@@ -1,0 +1,28 @@
+{
+  "links": {
+    "characters": "角色",
+    "cards": "卡片",
+    "events": "活動",
+    "scouts": "招募",
+    "stories": "故事",
+    "calendar": "日曆",
+    "about": "資料",
+    "patreon": "Patreon",
+    "user": "使用者"
+  },
+  "searchbarMessage": "搜索……",
+  "menu": {
+    "quickSettings": "快捷設定",
+    "darkMode": "深色模式",
+    "userTheme": "主題",
+    "locale": "語言",
+    "account": "張戶",
+    "settings": "設定",
+    "logout": "登出",
+    "login": "登錄",
+    "notLoggedIn": "未登錄",
+    "loading": "正在加載……"
+  },
+  "collapseSidebar": "收起",
+  "breadcrumbTitle": "馬克具"
+}
