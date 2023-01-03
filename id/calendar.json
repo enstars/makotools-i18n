@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "Kalender Game",
+  "calendar": {
+    "month": "Bulan",
+    "day": "Hari"
+  },
+  "monthViewLabels": {
+    "birthday": "HBD {{name}}!",
+    "fs": "{{name}} FS",
+    "scout": "SC! {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "Ulang tahun {{name}}",
+    "fs": "{{name}}",
+    "scout": "SCOUT! {{name}}",
+    "event": "{{name}}"
+  }
+}
