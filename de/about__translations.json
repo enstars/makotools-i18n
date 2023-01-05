@@ -1,0 +1,12 @@
+{
+  "title": "Über Übersetzungen",
+  "text": {
+    "main": "MakoTools beinhaltet übersetzte Inhalte von sowohl Freiwilligen als auch offiziellen Quellen.",
+    "sub": "Freiwillige Übersetzungen (Inoffizielle / Fan-Übersetzungen) sind nicht von Happy Elements genehmigt und sind kein offizieller Inhalt. Zusätzlich können diese von offiziellen Übersetzungen in offiziellen Medien oder im Spiel abweichen."
+  },
+  "incorrectTls": "Fehlerhafte Übersetzungen",
+  "incorrect": {
+    "unofficial": "Falls du glaubst, dass eine der inoffiziellen Übersetzungen auf dieser Seite fehlerhaft ist, kannst du uns gerne über <0>{{email}}</0> erreichen.",
+    "official": "Wir können keine Hilfe für fehlerhafte offizielle Übersetzungen geben. In diesen Fällen empfehlen wir Happy Elements selbst direkt zu kontaktieren."
+  }
+}
