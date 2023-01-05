@@ -14,6 +14,8 @@
   "menu": {
     "quickSettings": "Cài đặt nhanh",
     "darkMode": "Chế độ tối",
+    "userTheme": "Diện mạo",
+    "locale": "Ngôn ngữ",
     "account": "Tài khoản",
     "settings": "Cài đặt",
     "logout": "Đăng xuất",
