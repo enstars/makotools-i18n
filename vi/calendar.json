@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "Lịch trình game",
+  "calendar": {
+    "month": "Tháng",
+    "day": "Ngày"
+  },
+  "monthViewLabels": {
+    "birthday": "HBD {{name}}!",
+    "fs": "{{name}} FS",
+    "scout": "SC! {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "Sinh nhật của {{name}}",
+    "fs": "{{name}}",
+    "scout": "SCOUT! {{name}}",
+    "event": "{{name}}"
+  }
+}
