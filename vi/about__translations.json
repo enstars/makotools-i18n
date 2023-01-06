@@ -1,0 +1,12 @@
+{
+  "title": "Giới thiệu về phần phiên dịch",
+  "text": {
+    "main": "Công cụ Mako gồm các bản phiên dịch từ các tình nguyện viên và bản chính thức.",
+    "sub": "Các bản phiên dịch từ các tình nguyện viên (không chính thức) sẽ không được phê duyệt bởi Happy Elements. Thêm vào đó bản dịch ở sẽ khác hơn so với bản chính thức trong game."
+  },
+  "incorrectTls": "Phiên dịch bị lỗi",
+  "incorrect": {
+    "unofficial": "Nếu bạn tin rằng các bản dịch của chúng tôi không chính xác, hãy liên lạc với chúng tôi tại <0>{{email}}</0>.",
+    "official": "Chúng tôi sẽ không thể sửa các phiên dịch lỗi từ bên chính thức. trong trường hợp đó, hãy tự chủ liên lạc Happy Elements."
+  }
+}
