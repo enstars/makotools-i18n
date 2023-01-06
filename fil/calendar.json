@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "Kalendaryo ng Game",
+  "calendar": {
+    "month": "Buwan",
+    "day": "Araw"
+  },
+  "monthViewLabels": {
+    "birthday": "Maligayang Kaarawan {{name}}!",
+    "fs": "{{name}} FS",
+    "scout": "SC! {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "Kaarawan ni {{name}}",
+    "fs": "{{name}}",
+    "scout": "SCOUT! {{name}}",
+    "event": "{{name}}"
+  }
+}
