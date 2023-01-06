@@ -1,0 +1,28 @@
+{
+  "links": {
+    "characters": "全キャラ一覧",
+    "cards": "カード一覧",
+    "events": "イベント一覧",
+    "scouts": "スカウト一覧",
+    "stories": "ストーリー一覧",
+    "calendar": "カレンダー",
+    "about": "初めての方へ",
+    "patreon": "Patreon",
+    "user": "マイページ"
+  },
+  "searchbarMessage": "検索…",
+  "menu": {
+    "quickSettings": "クイック設定",
+    "darkMode": "ダークモード",
+    "userTheme": "テーマ",
+    "locale": "言語",
+    "account": "アカウント",
+    "settings": "設定",
+    "logout": "ログアウト",
+    "login": "ログイン",
+    "notLoggedIn": "ログインしていません",
+    "loading": "ロード中…"
+  },
+  "collapseSidebar": "非表示",
+  "breadcrumbTitle": "まこツールズ"
+}
