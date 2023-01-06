@@ -1,0 +1,12 @@
+{
+  "title": "Tungkol sa Mga Pagsasalin",
+  "text": {
+    "main": "Ang MakoTools ay naglalaman ng mga isinalin mula sa mga boluntaryo, at mula sa mga opisyal na mapagkukunan.",
+    "sub": "Ang mga boluntaryong pagsasalin (hindi opisyal / mga pagsasalin ng tagahanga) ay hindi inaprubahan ng Happy Elements, at hindi opisyal na nilalaman. Bukod pa rito, maaaring iba ang mga ito sa mga opisyal na pagsasalin na ginagamit sa opisyal na media, o in-game."
+  },
+  "incorrectTls": "Mga Maling Pagsasalin",
+  "incorrect": {
+    "unofficial": "Kung naniniwala mo na mali ang mga unofficial translations dito, huwag mag-atubiling i-contact mo kami sa aming <0>{{email}}</0>",
+    "official": "Wala kaming mabigyang tulong para sa mali na official translation. Sa mga kaso na ganyan, inirerekomenda namin na direkta niyong i-contact ang Happy Elements."
+  }
+}
