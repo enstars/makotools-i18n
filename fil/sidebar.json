@@ -14,10 +14,12 @@
   "menu": {
     "quickSettings": "Mabilis na Settings",
     "darkMode": "Madilim na Mode",
+    "userTheme": "Theme",
+    "locale": "Wika",
     "account": "Account",
     "settings": "Settings",
-    "logout": "I-log out",
-    "login": "I-log in",
+    "logout": "Mag-log out",
+    "login": "Mag-log in",
     "notLoggedIn": "Hindi nakalog-in",
     "loading": "Naglo-load..."
   },
