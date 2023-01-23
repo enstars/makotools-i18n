@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "Kalendar Permainan",
+  "calendar": {
+    "month": "Bulan",
+    "day": "Hari"
+  },
+  "monthViewLabels": {
+    "birthday": "SELAMAT HARI JADI {{name}}!! ",
+    "fs": "{{name}} FS",
+    "scout": "SC! {{name}} ",
+    "event": "{{nama}} "
+  },
+  "eventNames": {
+    "birthday": "Hari Jadi {{nama}} ",
+    "fs": "{{nama}} ",
+    "scout": "SCOUT! {{nama}} ",
+    "event": "{{nama}} "
+  }
+}
