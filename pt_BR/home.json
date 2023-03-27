@@ -31,5 +31,16 @@
     "title": "Próximas Campanhas",
     "seeAll": "Ver calendário completo"
   },
-  "--": "--"
+  "recommended": {
+    "title": "Campanhas Recomendadas",
+    "becauseYouLike": "Já que gosta de",
+    "recommendedAlert": "Recomendações são baseadas nos personagens e unidades favoritas listadas em seu perfil.",
+    "noRecommendations": "Não há nenhuma campanha recomendada disponível. Talvez você deveria adicionar seus personagens e unidades favoritas ao <0>seu perfil</0>!",
+    "sadHokke": "Você parece não gostar de ninguém... Nem de {{random}}?",
+    "explanation": "(Você indicou que odeia Ensemble Stars em seu perfil)",
+    "unavailable": "Não há nenhuma futura campanha recomendada disponível. "
+  },
+  "--": "--",
+  "next": "Próximo",
+  "prev": "Anterior"
 }
