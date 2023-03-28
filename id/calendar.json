@@ -5,7 +5,7 @@
     "day": "Hari"
   },
   "monthViewLabels": {
-    "birthday": "Ultah {{name}}!",
+    "birthday": "Selamat ultah {{name}}!",
     "fs": "{{name}} FS",
     "scout": "SC! {{name}}",
     "event": "{{name}}"
