@@ -18,7 +18,7 @@
     "start": "Começo",
     "end": "Fim",
     "estimateDesc": "Esse evento não está disponível no servidor global ainda.",
-    "estimate": "Datas são uma estimativa.",
+    "estimate": "Datas são uma estimativa",
     "addBookmark": "Favoritar esse evento",
     "removeBookmark": "Remover dos favoritos"
   }
