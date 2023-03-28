@@ -1,0 +1,62 @@
+{
+  "title": "Configurações",
+  "save": "Confirmar",
+  "content": {
+    "name": "Conteúdo",
+    "firstLast": "Nome, Sobrenome",
+    "firstLastExample": "Ex. Subaru Akehoshi",
+    "lastFirst": "Sobrenome, Nome",
+    "lastFirstExample": "Ex. Akehoshi Subaru",
+    "nameOrderLabel": "Preferência da ordem dos nomes",
+    "nameOrderDesc": "Japonês, chinês e coreano sempre usarão \"Sobrenome, Nome\".",
+    "jp": "Japão",
+    "cn": "China Continental",
+    "kr": "Coreia",
+    "tw": "Taiwan",
+    "en": "Global (Inglês)",
+    "regionLabel": "Região do Jogo",
+    "regionDesc": "Essa configuração ainda não afeta o conteúdo do site.",
+    "regionPlaceholder": "Japão (Padrão)"
+  },
+  "appearance": {
+    "name": "Aparência",
+    "mode": "Modo",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "none": "Esconder todos os indicadores",
+    "unofficial": "Apenas mostrar indicadores para traduções não oficiais",
+    "all": "Mostrar todos os indicadores",
+    "badgeLabel": "Mostrar indicadores de veracidade nas traduções",
+    "badgeDesc": "Essa configuração pode não ser aplicada no site inteiro neste momento.",
+    "use": "Usar WebPs sempre que possível",
+    "dontUse": "Nunca usar WebPs",
+    "webPLabel": "Usar WebPs para otimizar imagens",
+    "webPDesc": "Desativar WebPs pode resultar em um carregamento mais lento do site."
+  },
+  "friends": {
+    "name": "Amigos"
+  },
+  "account": {
+    "name": "Conta",
+    "colorCodeLabel": "Código de Cores",
+    "colorCodeDesc": "Seu código de cores é exclusivamente seu e não pode ser modificado ou trocado.",
+    "usernameErrorAlphanumeric": "Seu nome de usuário só pode conter caracteres alfanuméricos em caixa baixa ou underline!",
+    "usernameErrorUnderscore": "Seu nome de usuário não pode começar ou terminar com um underline!",
+    "usernameErrorEmpty": "Seu nome de usuário não pode ficar vazio!",
+    "usernameErrorShort": "Seu nome de usuário é muito curto!",
+    "usernameErrorLong": "Seu nome de usuário é muito longo!",
+    "usernameTaken": "Esse nome de usuário já está sendo usado!",
+    "usernameAvailable": "Esse nome de usuário está disponível!",
+    "unEasterEgg": "Cuide do seu novo nome de usuário!",
+    "iLaughedIrl": "Izumi Sena que aponta para kinnies (você)",
+    "newUsername": "Escolha um novo nome de usuário...",
+    "emailLabel": "E-mail",
+    "emailVerified": "Seu e-mail foi verificado!",
+    "emailNotVerified": "Seu e-mail não foi verificado.",
+    "resendVerificationEmail": "Reenviar e-mail de verificação",
+    "twitterSignin": "Logado com Twitter",
+    "usernameLabel": "Nome de Usuário",
+    "usernamePlaceholder": "Nome de usuário indefinido",
+    "changeUsername": "Trocar Nome de Usuário"
+  }
+}

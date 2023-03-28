@@ -1,0 +1,14 @@
+{
+  "title": "Cartas",
+  "search": {
+    "searchPlaceholder": "Escribe el nombre de una carta...",
+    "sortPlaceholder": "Selecciona un grupo",
+    "cardId": "ID de la Carta",
+    "character": "Personaje",
+    "charLabel": "Personajes",
+    "charPlaceholder": "Selecciona un personaje",
+    "rarityLabel": "Rareza",
+    "showFullInfo": "Mostrar toda la información"
+  },
+  "resultsFound": "{{count}} resultados encontrados."
+}

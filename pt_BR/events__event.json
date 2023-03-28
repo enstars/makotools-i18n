@@ -1,0 +1,18 @@
+{
+  "cards": "Cartas",
+  "story": "História",
+  "scout": "Scout",
+  "song": "Música",
+  "loginBookmark": "Entre para adicionar isto aos seus favoritos",
+  "comingSoon": "Em breve!",
+  "scoutTitle": "Scout! {{scout}}",
+  "past": "Passado",
+  "ongoing": "Em Andamento",
+  "upcoming": "Próximo",
+  "diaScout": "Lista de Dia scout",
+  "ptSummary": "Cartas do <0>{{scout}}</0> scout oferecem um bônus de pontos no evento <0>{{event}}</0>!",
+  "eventPointBonus": "Pontos bônus do evento",
+  "cardCopies": "Cópias de cartas",
+  "cardRarity": "Raridade da carta",
+  "translationCredit": "Resumo traduzido por"
+}
