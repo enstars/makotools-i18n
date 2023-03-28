@@ -27,7 +27,7 @@
     "unofficial": "Apenas mostrar insígnias para traduções não oficiais",
     "all": "Mostrar todas as insígnias",
     "badgeLabel": "Mostrar insígnias de veracidade nas traduções",
-    "badgeDesc": "Essa configuração pode não ser aplicada pelo site inteiro neste momento.",
+    "badgeDesc": "Essa configuração pode não ser aplicada no site inteiro neste momento.",
     "use": "Usar WebPs sempre que possível",
     "dontUse": "Nunca usar WebPs",
     "webPLabel": "Usar WebPs para otimizar imagens",
