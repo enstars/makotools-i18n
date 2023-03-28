@@ -24,7 +24,7 @@
     "lightMode": "Modo Claro",
     "darkMode": "Modo Escuro",
     "none": "Esconder todos os indicadores",
-    "unofficial": "Apenas mostrar insígnias para traduções não oficiais",
+    "unofficial": "Apenas mostrar indicadores para traduções não oficiais",
     "all": "Mostrar todas as insígnias",
     "badgeLabel": "Mostrar insígnias de veracidade nas traduções",
     "badgeDesc": "Essa configuração pode não ser aplicada no site inteiro neste momento.",
