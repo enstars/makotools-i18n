@@ -1,0 +1,25 @@
+{
+  "title": "Eventos",
+  "song": "Música pra Unit",
+  "tour": "Tour",
+  "shuffle": "Shuffle",
+  "scout": "Scout do Evento",
+  "featureScout": "Scout Em Destaque",
+  "search": {
+    "eventId": "ID do Evento",
+    "searchPlaceholder": "Escreva o nome de um evento...",
+    "unitsLabel": "Units Em Destaque",
+    "unitsPlaceholder": "Escolha uma unit...",
+    "charLabel": "Personagens Em Destaque",
+    "charPlaceholder": "Escolha um personagem..."
+  },
+  "event": {
+    "tbaDesc": "A descrição do evento será anunciada em breve.",
+    "start": "Começo",
+    "end": "Fim",
+    "estimateDesc": "Esse evento não está disponível no servidor global ainda.",
+    "estimate": "Datas são uma estimativa.",
+    "addBookmark": "Favoritar esse evento",
+    "removeBookmark": "Remover dos favoritos"
+  }
+}
