@@ -26,7 +26,7 @@
     "none": "Esconder todos os indicadores",
     "unofficial": "Apenas mostrar indicadores para traduções não oficiais",
     "all": "Mostrar todos os indicadores",
-    "badgeLabel": "Mostrar insígnias de veracidade nas traduções",
+    "badgeLabel": "Mostrar indicadores de veracidade nas traduções",
     "badgeDesc": "Essa configuração pode não ser aplicada no site inteiro neste momento.",
     "use": "Usar WebPs sempre que possível",
     "dontUse": "Nunca usar WebPs",
