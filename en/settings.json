@@ -34,7 +34,10 @@
     "webPDesc": "Disabling WebPs may result in slower load times."
   },
   "friends": {
-    "name": "Friends"
+    "name": "Friends",
+    "noBitches": "Uh oh, looks like someone needs to make some friends!",
+    "friendRequests": "Friend Requests",
+    "noReqs": "No friend requests. You're all up to date!"
   },
   "account": {
     "name": "Account",
