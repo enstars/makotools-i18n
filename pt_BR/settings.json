@@ -44,7 +44,7 @@
     "colorCodeLabel": "Código de Cores",
     "colorCodeDesc": "Seu código de cores é exclusivamente seu e não pode ser modificado ou trocado.",
     "uniqueCodeLabel": "Código Exclusivo",
-    "uniqueCodeDesc": "Se você logou pelo Twitter, por favor tire print da tela ou copie e cole esse código e envie para um admin de MakoTools para mover a seu nome de usuário para uma nova conta com verificação por e-mail.",
+    "uniqueCodeDesc": "Se você logou pelo Twitter, por favor tire print da tela ou copie esse código e envie para um admin de MakoTools para mover a seu nome de usuário para uma nova conta com verificação por e-mail.",
     "usernameErrorAlphanumeric": "Seu nome de usuário só pode conter caracteres alfanuméricos em caixa baixa ou underline!",
     "usernameErrorUnderscore": "Seu nome de usuário não pode começar ou terminar com um underline!",
     "usernameErrorEmpty": "Seu nome de usuário não pode ficar vazio!",
