@@ -8,8 +8,8 @@
     "fs": "{{name}}"
   },
   "event": {
-    "start": "Começa em {{time}}",
-    "end": "Termina em {{time}}",
+    "start": "Começa em",
+    "end": "Termina em",
     "current": "Eventos atuais",
     "next": "Próximos Eventos",
     "seeAll": "Ver todos os Eventos",
