@@ -1,0 +1,25 @@
+{
+  "title": "Évènements",
+  "song": "Chanson de groupe / unité",
+  "tour": "Tournée",
+  "shuffle": "Mélange",
+  "scout": "Scout d'évènement",
+  "featureScout": "Scout à fonctionnalité",
+  "search": {
+    "eventId": "ID d'évènement",
+    "searchPlaceholder": "Tapez un nom d'évènement...",
+    "unitsLabel": "Groupes à fonctionnalité (en featuring)",
+    "unitsPlaceholder": "Choisissez un groupe...",
+    "charLabel": "Personnages en featuring",
+    "charPlaceholder": "Choisissez un personnage..."
+  },
+  "event": {
+    "tbaDesc": "La descripiton de l'évènement qui va être bientôt annoncée.",
+    "start": "Démarrer",
+    "end": "Terminer",
+    "estimateDesc": "Cet évènement n'est pas encore disponible sur le serveur global.",
+    "estimate": "Les dates sont estimées",
+    "addBookmark": "Mettre un marque-page sur cet évènement",
+    "removeBookmark": "Enlever des marque-pages"
+  }
+}
