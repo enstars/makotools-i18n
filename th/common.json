@@ -1,3 +1,12 @@
 {
-  "test": "มาโคโตะ ยูกิ สวัสดีครับ!"
+  "test": "มาโคโตะ ยูกิ สวัสดีครับ!",
+  "search": {
+    "searchLabel": "ค้นหา",
+    "searchOptions": "ตัวเลือกเพิ่มเติม",
+    "sortLabel": "เรียงตาม",
+    "sortTooltip": "สลับลำดับหน้า-หลัง",
+    "resetFilters": "รีเซ็ตทั้งหมด",
+    "startDate": "วันที่",
+    "sortPlaceholder": "เลือกลำดับการเรียงตาม..."
+  }
 }
