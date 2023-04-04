@@ -8,7 +8,7 @@
     "fs": "{{name}}"
   },
   "event": {
-    "start": "<0>Starts </0> <1>{{time}}</1>",
+    "start": "<0>Starts in</0> <1>{{time}}</1>",
     "end": "<0>Ends in</0> <1>{{time}}</1>",
     "current": "Current Events",
     "next": "Next Events",
