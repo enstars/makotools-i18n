@@ -11,7 +11,7 @@
     "event": "{{name}}"
   },
   "eventNames": {
-    "birthday": "วันเกิด{{name}}",
+    "birthday": "วันเกิดของ {{name}}",
     "fs": "{{name}}",
     "scout": "สเกาท์! {{name}}",
     "event": "{{name}}"
