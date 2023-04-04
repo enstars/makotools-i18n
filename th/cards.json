@@ -1,0 +1,14 @@
+{
+  "title": "การ์ด",
+  "search": {
+    "searchPlaceholder": "ค้นหาจากชื่อการ์ด...",
+    "sortPlaceholder": "เลือกยูนิต...",
+    "cardId": "ID การ์ด",
+    "character": "ตัวละคร",
+    "charLabel": "ตัวละคร",
+    "charPlaceholder": "เลือกตัวละคร...",
+    "rarityLabel": "ระดับดาว",
+    "showFullInfo": "แสดงข้อมูลเต็ม"
+  },
+  "resultsFound": "พบผลการค้นหา {{count}} รายการ"
+}

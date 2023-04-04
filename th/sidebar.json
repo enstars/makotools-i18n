@@ -1,0 +1,29 @@
+{
+  "links": {
+    "characters": "ตัวละคร",
+    "cards": "การ์ด",
+    "events": "อีเว้นต์",
+    "scouts": "สเกาต์",
+    "stories": "เนื้อเรื่อง",
+    "calendar": "ปฏิทิน",
+    "about": "เกี่ยวกับเรา",
+    "patreon": "Patreon",
+    "user": "ผู้ใช้"
+  },
+  "searchbarMessage": "ค้นหา...",
+  "menu": {
+    "quickSettings": "ตั้งค่าด่วน",
+    "darkMode": "โหมดมืด",
+    "userTheme": "ธีมสี",
+    "locale": "ภาษา",
+    "account": "บัญชีผู้ใช้",
+    "settings": "การตั้งค่า",
+    "bookmarks": "บุ๊กมาร์ก",
+    "logout": "ออกจากระบบ",
+    "login": "เข้าสู่ระบบ",
+    "notLoggedIn": "ยังไม่เข้าสู่ระบบ",
+    "loading": "กำลังโหลด"
+  },
+  "collapseSidebar": "ซ่อน",
+  "breadcrumbTitle": "มาโกะทูลส์"
+}

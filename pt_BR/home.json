@@ -8,15 +8,15 @@
     "fs": "{{name}}"
   },
   "event": {
-    "start": "Começa em {{time}}",
-    "end": "Termina em {{time}}",
+    "start": "Começa em",
+    "end": "Termina em",
     "current": "Eventos atuais",
     "next": "Próximos Eventos",
     "seeAll": "Ver todos os Eventos",
     "eventCalculator": "Calculadora de Evento"
   },
   "scout": {
-    "end": "Termina em {{time}}",
+    "end": "Termina em",
     "current": "Scouts atuais",
     "seeAll": "Ver todos os Scouts",
     "scout": "SCOUT! {{name}}",

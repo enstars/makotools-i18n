@@ -3,9 +3,9 @@
   "supportOnPatreon": "訂閲 Patreon 支持我們！",
   "createAccount": "建立新帳戶",
   "banner": {
-    "birthday": "生日快樂，{{名}}！",
-    "scout": "招募！{{名}}",
-    "fs": "{{名}}"
+    "birthday": "生日快樂，{{name}}！",
+    "scout": "招募！{{name}}",
+    "fs": "{{name}}"
   },
   "event": {
     "start": "即將於【日期】開啟",
@@ -19,8 +19,8 @@
     "end": "即將於【日期】停止",
     "current": "最新招募",
     "seeAll": "查看所有招募",
-    "scout": "招募！{{名}}",
-    "fs": "{{名}}"
+    "scout": "招募！{{name}}",
+    "fs": "{{name}}"
   },
   "announcements": {
     "title": "網站公報",
@@ -31,5 +31,18 @@
     "title": "即將活動",
     "seeAll": "查看活動日曆"
   },
-  "--": "--"
+  "recommended": {
+    "title": "推薦活動",
+    "becauseYouLike": "因為您喜歡",
+    "recommendedAlert": "推薦内容是基於您的個人資料上列出的【最喜歡的角色】和【最喜歡的組合】",
+    "noRecommendations": "沒有推薦活動。請把您最喜歡的角色和組合添加到<0>你的資料</0>中去！",
+    "sadHokke": "看來您誰都不喜歡……連 {{random}} 也不喜歡嗎？",
+    "akehoshi": "明星",
+    "yuuki": "遊木",
+    "explanation": "（您在您個人資料上寫了您討厭偶像夢幻祭）",
+    "unavailable": "沒有即將推薦活動"
+  },
+  "--": "{{friend}} 現在是你的好友了！",
+  "next": "下一頁",
+  "prev": "上一頁"
 }
