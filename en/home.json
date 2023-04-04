@@ -39,7 +39,8 @@
     "akehoshi": "Akehoshi",
     "yuuki": "Yuuki",
     "explanation": "(You indicated that you hate Ensemble Stars on your profile)",
-    "unavailable": "There are no upcoming recommended campaigns available."
+    "unavailable": "There are no upcoming recommended campaigns available.",
+    "start": "Starts in {{time}}"
   },
   "--": "--",
   "next": "Next",
