@@ -8,15 +8,14 @@
     "fs": "{{name}}"
   },
   "event": {
-    "start": "Mulai dalam {{time}}",
-    "end": "Berakhir dalam {{time}}",
+    "start": "<0>Mulai dalam</0> <1>{{time}}</1>",
+    "end": "<0>Berakhir dalam</0> <1>{{time}}</1>",
     "current": "Event Berlangsung",
     "next": "Event Selanjutnya",
     "seeAll": "Lihat semua event",
     "eventCalculator": "Kalkulator Event"
   },
   "scout": {
-    "end": "Berakhir dalam {{time}}",
     "current": "Scout Berlangsung",
     "seeAll": "Lihat semua scout",
     "scout": "SCOUT! {{name}}",
@@ -31,5 +30,19 @@
     "title": "Campaign yang akan datang",
     "seeAll": "Lihat kalender penuh"
   },
-  "--": "--"
+  "recommended": {
+    "title": "Rekomendasi Campaign",
+    "becauseYouLike": "Karena kamu menyukai <0>{{character}}</0>",
+    "recommendedAlert": "Rekomendasi didasarkan pada karakter dan unit favorit yang tercantum pada profil anda.",
+    "noRecommendations": "Tidak ada campaign yang bisa direkomendasikan. Mungkin kamu harus menambahkan karakter atau unit favoritmu di <0>profil anda</0>!",
+    "sadHokke": "Tampaknya kamu tidak menyukai siapapun... Bahkan {{random}}?",
+    "akehoshi": "Akehoshi",
+    "yuuki": "Yuuki",
+    "explanation": "(Anda mengindikasikan bahwa anda membenci Ensemble Stars di profil anda)",
+    "unavailable": "Tidak ada campaign mendatang yang dapat direkomendasikan.",
+    "start": "Mulai dalam {{time}}"
+  },
+  "--": "--",
+  "next": "Selanjutnya",
+  "prev": "Sebelumnya"
 }
