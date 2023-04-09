@@ -1,22 +1,21 @@
 {
   "welcome": "Selamat datang ke Makotools!",
-  "supportOnPatreon": "Sokong kami di Patreon!",
-  "createAccount": "Buat akaun!",
+  "supportOnPatreon": "Sokonglah kami di Patreon!",
+  "createAccount": "Cipta Akaun! ",
   "banner": {
     "birthday": "Selamat Hari Jadi, {{nama}}!",
     "scout": "SCOUT! {{nama}}",
     "fs": "{{nama}}"
   },
   "event": {
-    "start": "Bermula dalam",
-    "end": "Berhabis dalam",
-    "current": "Acara yang berlangsung",
+    "start": "<0>Bermula dalam</0><1>{{masa}}</1>",
+    "end": "<0>Berakhir dalam</0><1>{{masa}}</1>",
+    "current": "Acara yang Berlangsung",
     "next": "Acara Seterusnya ",
     "seeAll": "Lihat semua acara",
     "eventCalculator": "Kalkulator Acara"
   },
   "scout": {
-    "end": "Habis dalam",
     "current": "Scout Yang Berlangsung",
     "seeAll": "Lihat semua scout",
     "scout": "SCOUT! {{nama}}",
@@ -25,11 +24,25 @@
   "announcements": {
     "title": "Pengumuman Laman Web",
     "fetchError": "Pengumuman ralat",
-    "seeAll": "Tengok semua pengumuman "
+    "seeAll": "Lihat semua pengumuman "
   },
   "upcomingCampaigns": {
     "title": "Kempen Akan Datang",
-    "seeAll": "Tengok kalendar penuh"
+    "seeAll": "Lihat kalendar penuh"
   },
-  "--": "--"
+  "recommended": {
+    "title": "Kempen yang disyorkan",
+    "becauseYouLike": "Sebab anda menyukai <0>{{karakter}}</0>",
+    "recommendedAlert": "Rekomendasi adalah berdasarkan kesukaan karakter dan unit di profil anda.",
+    "noRecommendations": "Tiada rekomendasi kempen yang ada. Anda sepatutnya menambah karakter ataupun unit kegemaran kepada <0>profil anda</0>!",
+    "sadHokke": "Anda seperti tidak menyukai sesiapa... {{random}} juga?",
+    "akehoshi": "Akehoshi",
+    "yuuki": "Yuuki",
+    "explanation": "(Anda menunjukkan yang anda benci Ensemble Stars di profil anda)",
+    "unavailable": "Tiada kempen yang disyorkan pada masa yang akan datang.",
+    "start": "Bermula dalam {{time}}"
+  },
+  "--": "--",
+  "next": "Seterusnya",
+  "prev": "Sebelumnya"
 }
