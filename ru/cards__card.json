@@ -1,0 +1,28 @@
+{
+  "sparkle": "Спаркл",
+  "brilliant": "Брилилант",
+  "glitter": "Глиттер",
+  "flash": "Флэш",
+  "stats": {
+    "heading": "Статы",
+    "showDetailedStats": "Показать статы подробнее",
+    "detailedStats": "Подробные статы",
+    "maxStats": "Максимум статов"
+  },
+  "skills": {
+    "heading": "Скиллы",
+    "liveLabel": "Уровень лайв навыка.",
+    "liveSliderLabel": "Уровень. {{level}}",
+    "supportLabel": "Уровень саппорт навыка.",
+    "supportSliderLabel": "Уровень. {{level}}",
+    "center": "центр",
+    "live": "лайв",
+    "support": "саппорт"
+  },
+  "gallery": {
+    "heading": "Галерея",
+    "fullCgs": "Полные изображения",
+    "renders": "PNG изображения",
+    "card": "Карта"
+  }
+}
