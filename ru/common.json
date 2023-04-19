@@ -1,3 +1,12 @@
 {
-  "test": "Добро пожаловать на MakoTools!"
+  "test": "Добро пожаловать на MakoTools!",
+  "search": {
+    "searchLabel": "Поиск",
+    "searchOptions": "Параметры поиска",
+    "sortLabel": "Сортировать по",
+    "sortTooltip": "Переключение по возрастанию/убыванию",
+    "resetFilters": "Сбросить все фильтры",
+    "startDate": "Дате начала",
+    "sortPlaceholder": "Выберете опцию сортировки..."
+  }
 }
