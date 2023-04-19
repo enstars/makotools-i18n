@@ -1,0 +1,14 @@
+{
+  "title": "Карты",
+  "search": {
+    "searchPlaceholder": "Напишите название карты...",
+    "sortPlaceholder": "Выберете юнит...",
+    "cardId": "ID карты",
+    "character": "Персонаж",
+    "charLabel": "Персонажи",
+    "charPlaceholder": "Выберите персонажа...",
+    "rarityLabel": "Редкость",
+    "showFullInfo": "Показать полную информацию"
+  },
+  "resultsFound": "Найдено {{count}} результатов."
+}
