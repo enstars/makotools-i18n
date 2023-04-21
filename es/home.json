@@ -8,15 +8,14 @@
     "fs": "{{name}}"
   },
   "event": {
-    "start": "Empieza en {{time}}",
-    "end": "Termina en {{time}}",
+    "start": "<0>Empieza en</0><1>{{time}}</1>",
+    "end": "<0>Termina en</0><1>{{time}}</1>",
     "current": "Eventos en progreso",
     "next": "Próximos Eventos",
     "seeAll": "Ver todos los Eventos",
     "eventCalculator": "Calculadora de Eventos"
   },
   "scout": {
-    "end": "Termina en {{time}}",
     "current": "Scouts en progreso",
     "seeAll": "Ver todos los Scouts",
     "scout": "¡SCOUT! {{name}}",
@@ -33,14 +32,15 @@
   },
   "recommended": {
     "title": "Campañas recomendadas",
-    "becauseYouLike": "Ya que te gusta",
+    "becauseYouLike": "Ya que te gusta <0>{{character}}</0>",
     "recommendedAlert": "Las recomendaciones se basan en los personajes y grupos favoritos guardados en tu perfil.",
     "noRecommendations": "No hay campañas recomendadas disponibles. Quizás deberías añadir tus personajes o grupos favoritos a <0>tu perfil.</0>",
     "sadHokke": "Parece que no te gusta nadie... ¿Ni siquiera {{random}}?",
     "akehoshi": "Akehoshi",
     "yuuki": "Yuuki",
     "explanation": "(Indicaste que odias Ensemble Stars en tu perfil)",
-    "unavailable": "No hay disponibles campañas recomendadas próximamente."
+    "unavailable": "No hay disponibles campañas recomendadas próximamente.",
+    "start": "Empieza en {{time}}"
   },
   "--": "--",
   "next": "Próximo",
