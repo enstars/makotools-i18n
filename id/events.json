@@ -8,7 +8,7 @@
   "search": {
     "eventId": "ID Event",
     "searchPlaceholder": "Ketik judul event...",
-    "unitsLabel": "Unit yang Ditampilkan",
+    "unitsLabel": "Unit yang Tampil",
     "unitsPlaceholder": "Pilih sebuah unit...",
     "charLabel": "Karakter yang Tampil",
     "charPlaceholder": "Pilih sebuah karakter..."
