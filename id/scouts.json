@@ -1,0 +1,13 @@
+{
+  "title": "Scout",
+  "scoutId": "ID Scout",
+  "startDate": "Tanggal Mulai",
+  "searchPlaceholder": "Ketik nama scout...",
+  "charLabel": "Karakter yang Tampil",
+  "charPlaceholder": "Pilih sebuah karakter...",
+  "event": "Event",
+  "feature": "Feature",
+  "scouts": "Scout",
+  "past": "Telah berlalu",
+  "ongoing": "Sedang berlangsung"
+}
