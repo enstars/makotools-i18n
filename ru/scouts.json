@@ -1,0 +1,13 @@
+{
+  "title": "Скауты",
+  "scoutId": "ID скаута",
+  "startDate": "Дате начала",
+  "searchPlaceholder": "Введите название скаута...",
+  "charLabel": "Поиск по персонажам",
+  "charPlaceholder": "Выберите персонажа...",
+  "event": "Ивент",
+  "feature": "Фича",
+  "scouts": "скаут",
+  "past": "Завершён",
+  "ongoing": "Текущий"
+}
