@@ -1,0 +1,28 @@
+{
+  "sparkle": "Sparkle",
+  "brilliant": "Brilliant",
+  "glitter": "Glitter",
+  "flash": "Flash",
+  "stats": {
+    "heading": "Thuộc tính",
+    "showDetailedStats": "Hiện thị thuộc tính chi tiết",
+    "detailedStats": "Thuộc tính chi tiết",
+    "maxStats": "Thuộc tính tối đa"
+  },
+  "skills": {
+    "heading": "Kỹ năng",
+    "liveLabel": "Cấp độ Live",
+    "liveSliderLabel": "Cấp {{level}}",
+    "supportLabel": "Cấp hỗ trợ",
+    "supportSliderLabel": "Cấp {{level}}",
+    "center": "Center",
+    "live": "Live",
+    "support": "Hỗ trợ"
+  },
+  "gallery": {
+    "heading": "Thư viện",
+    "fullCgs": "Full CG",
+    "renders": "Transparent Renders",
+    "card": "Card"
+  }
+}
