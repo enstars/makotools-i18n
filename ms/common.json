@@ -1,3 +1,12 @@
 {
-  "test": "Selamat Datang ke MakoTools!"
+  "test": "Selamat Datang ke MakoTools!",
+  "search": {
+    "searchLabel": "Cari",
+    "searchOptions": "Cari pilihan",
+    "sortLabel": "Susun mengikut ",
+    "sortTooltip": "Toggle ascending/descending",
+    "resetFilters": "Reset all filters",
+    "startDate": "Tarikh permulaan",
+    "sortPlaceholder": "Pilih pilihan susunan"
+  }
 }
