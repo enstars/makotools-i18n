@@ -14,8 +14,11 @@
   "menu": {
     "quickSettings": "빠른 설정",
     "darkMode": "다크 모드",
+    "userTheme": "Theme",
+    "locale": "Language",
     "account": "계정",
     "settings": "설정",
+    "bookmarks": "Bookmarks",
     "logout": "로그 아웃",
     "login": "로그인",
     "notLoggedIn": "로그인하지 않았습니다",
