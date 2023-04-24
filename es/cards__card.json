@@ -1,0 +1,28 @@
+{
+  "sparkle": "Sparkle",
+  "brilliant": "Brilliant",
+  "glitter": "Glitter",
+  "flash": "Flash",
+  "stats": {
+    "heading": "Estadísticas",
+    "showDetailedStats": "Mostrar estadísticas detalladas",
+    "detailedStats": "Estadísticas detalladas",
+    "maxStats": "Máximas estadísticas"
+  },
+  "skills": {
+    "heading": "Habilidades",
+    "liveLabel": "Live Lvl.",
+    "liveSliderLabel": "Lvl. {{level}}",
+    "supportLabel": "Support Lvl.",
+    "supportSliderLabel": "Lvl. {{level}}",
+    "center": "centro",
+    "live": "live",
+    "support": "soporte"
+  },
+  "gallery": {
+    "heading": "Galería",
+    "fullCgs": "Full CGs",
+    "renders": "Transparent Renders",
+    "card": "Carta"
+  }
+}
