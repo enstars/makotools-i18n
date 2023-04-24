@@ -32,7 +32,7 @@
   },
   "recommended": {
     "title": "Campañas recomendadas",
-    "becauseYouLike": "Ya que te gusta <0>{{character}}</0>",
+    "becauseYouLike": "Porque te gusta <0>{{character}}</0>",
     "recommendedAlert": "Las recomendaciones se basan en los personajes y grupos favoritos guardados en tu perfil.",
     "noRecommendations": "No hay campañas recomendadas disponibles. Quizás deberías añadir tus personajes o grupos favoritos a <0>tu perfil.</0>",
     "sadHokke": "Parece que no te gusta nadie... ¿Ni siquiera {{random}}?",
