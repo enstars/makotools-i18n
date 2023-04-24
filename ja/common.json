@@ -1,3 +1,12 @@
 {
-  "test": "まこツールズへようこそ！"
+  "test": "まこツールズへようこそ！",
+  "search": {
+    "searchLabel": "検索",
+    "searchOptions": "Search options",
+    "sortLabel": "Sort by",
+    "sortTooltip": "Toggle ascending/descending",
+    "resetFilters": "Reset all filters",
+    "startDate": "Start Date",
+    "sortPlaceholder": "Select sorting option..."
+  }
 }
