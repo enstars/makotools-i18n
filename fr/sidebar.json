@@ -14,8 +14,11 @@
   "menu": {
     "quickSettings": "Réglages Rapides",
     "darkMode": "Mode sombre",
+    "userTheme": "Theme",
+    "locale": "Language",
     "account": "Compte",
     "settings": "Paramètres",
+    "bookmarks": "Bookmarks",
     "logout": "Déconnexion",
     "login": "Connexion",
     "notLoggedIn": "Pas Connecté",
