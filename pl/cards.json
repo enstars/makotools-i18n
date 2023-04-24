@@ -1,0 +1,14 @@
+{
+  "title": "Karty",
+  "search": {
+    "searchPlaceholder": "Wpisz nazwę karty...",
+    "sortPlaceholder": "Pick a unit...",
+    "cardId": "ID karty",
+    "character": "Postać",
+    "charLabel": "Postacie",
+    "charPlaceholder": "Wybierz postać...",
+    "rarityLabel": "Rarity",
+    "showFullInfo": "Pokaż pełne informacje"
+  },
+  "resultsFound": "Znaleziono {{count}} wyników."
+}
