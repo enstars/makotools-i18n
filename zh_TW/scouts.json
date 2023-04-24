@@ -1,0 +1,13 @@
+{
+  "title": "Scouts",
+  "scoutId": "Scout ID",
+  "startDate": "Start Date",
+  "searchPlaceholder": "Type a scout name...",
+  "charLabel": "Featured Characters",
+  "charPlaceholder": "選擇角色……",
+  "event": "活動",
+  "feature": "Feature",
+  "scouts": "招募",
+  "past": "Past",
+  "ongoing": "Ongoing"
+}
