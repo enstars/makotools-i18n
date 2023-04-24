@@ -18,9 +18,10 @@
     "locale": "言語",
     "account": "アカウント",
     "settings": "設定",
+    "bookmarks": "Bookmarks",
     "logout": "ログアウト",
     "login": "ログイン",
-    "notLoggedIn": "ログインしていません",
+    "notLoggedIn": "ログインされていません",
     "loading": "ロード中…"
   },
   "collapseSidebar": "非表示",
