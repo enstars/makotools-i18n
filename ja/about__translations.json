@@ -1,0 +1,12 @@
+{
+  "title": "翻訳について",
+  "text": {
+    "main": "まこツールズには有志者による翻訳と公式の翻訳を両方とも含まれています。",
+    "sub": "有志者による翻訳（非公式・ファン翻訳）はHappy Elements株式会社により認可されていないため、公式コンテンツではありません。また、これらはゲーム内や公式メディアで使用されている翻訳と異なる場合があります。"
+  },
+  "incorrectTls": "誤訳",
+  "incorrect": {
+    "unofficial": "本サイトに掲載されている非公式翻訳が正しくないと思われる場合は、<0>{{email}}</0>よりお問い合わせください。",
+    "official": "We cannot provide help for incorrect official translations. In those cases, we recommend you contact Happy Elements directly yourself."
+  }
+}
