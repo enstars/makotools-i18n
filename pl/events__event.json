@@ -1,0 +1,18 @@
+{
+  "cards": "Karty",
+  "story": "Story",
+  "scout": "Scout",
+  "song": "Piosenka",
+  "loginBookmark": "Log in to add this to your bookmarks",
+  "comingSoon": "Coming soon!",
+  "scoutTitle": "Scout! {{scout}}",
+  "past": "Poprzednie",
+  "ongoing": "Aktualne",
+  "upcoming": "Nadchodzące",
+  "diaScout": "Dia scout pool",
+  "ptSummary": "Karty ze Scoutu <0>{{scout}}</0> dają bonus punktowy w <0>{{event}}</0>!",
+  "eventPointBonus": "Eventowy bonus punktowy",
+  "cardCopies": "Kopie kart",
+  "cardRarity": "Card rarity",
+  "translationCredit": "Podsumowanie przetłumaczone przez"
+}
