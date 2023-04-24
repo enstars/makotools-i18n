@@ -1,0 +1,25 @@
+{
+  "title": "Sự kiện",
+  "song": "Unit Song",
+  "tour": "Lưu diễn",
+  "shuffle": "Shuffle",
+  "scout": "Sự kiện Scout",
+  "featureScout": "Feature Scout",
+  "search": {
+    "eventId": "ID Sự kiện",
+    "searchPlaceholder": "Nhập tên một sự kiện...",
+    "unitsLabel": "Featured Units",
+    "unitsPlaceholder": "Chọn một unit...",
+    "charLabel": "Featured Characters",
+    "charPlaceholder": "Chọn một nhân vật..."
+  },
+  "event": {
+    "tbaDesc": "Chi tiết sự kiện sẽ được công bố sau.",
+    "start": "Bắt đầu",
+    "end": "Kết thúc",
+    "estimateDesc": "Sự kiện này chưa có trên máy chủ global.",
+    "estimate": "Thời gian dự kiến",
+    "addBookmark": "Đánh dấu sự kiện này",
+    "removeBookmark": "Bỏ đánh dấu"
+  }
+}
