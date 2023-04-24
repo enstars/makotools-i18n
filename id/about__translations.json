@@ -2,11 +2,11 @@
   "title": "Tentang Terjemahan",
   "text": {
     "main": "Kaca-Mako berisikan konten yang diterjemahkan oleh para sukarelawan dan dari sumber-sumber resmi.",
-    "sub": "Terjemahan sukarela (tidak resmi / terjemahan oleh penggemar) tidak diakui oleh Happy Elements, dan bukanlah konten resmi. Oleh karena itu, isi bisa saja berbeda dari terjemahan resmi yang digunakan dalam media resmi, maupun dalam game."
+    "sub": "Terjemahan sukarela (tidak resmi / terjemahan oleh penggemar) tidak diakui oleh Happy Elements, dan bukanlah konten resmi. Oleh karena itu, terjemahan kami bisa saja berbeda dengan terjemahan resmi yang digunakan dalam media resmi, maupun dalam game."
   },
   "incorrectTls": "Terjemahan yang Salah",
   "incorrect": {
-    "unofficial": "Jika menurut anda ada terjemahan tidak resmi yang salah di situs ini, silahkan hubungi kami di <0>{{email}}<0> .",
-    "official": "Kami tidak bisa memberi bantuan mengenai terjemahan resmi yang salah. Dalam kasus seperti itu, kami menganjurkan anda untuk menghubungi Happy Elements secara langsung."
+    "unofficial": "Jika menurut Anda ada terjemahan tidak resmi yang salah di situs ini, silahkan hubungi kami di <0>{{email}}</0>.",
+    "official": "Kami tidak bisa memberi bantuan mengenai terjemahan resmi yang salah. Dalam kasus seperti itu, kami menganjurkan Anda untuk menghubungi Happy Elements secara langsung."
   }
 }
