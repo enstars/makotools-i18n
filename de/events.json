@@ -1,0 +1,25 @@
+{
+  "title": "Events",
+  "song": "Gruppensong",
+  "tour": "Tour",
+  "shuffle": "Shuffle",
+  "scout": "Event Scout",
+  "featureScout": "Feature Scout",
+  "search": {
+    "eventId": "Eventnummer",
+    "searchPlaceholder": "Eventnamen eingeben...",
+    "unitsLabel": "Featured Units",
+    "unitsPlaceholder": "Wähle eine Gruppe...",
+    "charLabel": "Featured Characters",
+    "charPlaceholder": "Charakter auswählen..."
+  },
+  "event": {
+    "tbaDesc": "Event description to be announced soon.",
+    "start": "Anfang",
+    "end": "Ende",
+    "estimateDesc": "This event is not available on the global server yet.",
+    "estimate": "Dates are estimates",
+    "addBookmark": "Dieses Event zu Lesezeichen hinzufügen",
+    "removeBookmark": "Von Lesezeichen entfernen"
+  }
+}
