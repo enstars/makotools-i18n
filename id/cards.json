@@ -1,0 +1,14 @@
+{
+  "title": "Kartu",
+  "search": {
+    "searchPlaceholder": "Ketik nama kartu...",
+    "sortPlaceholder": "Pilih sebuah unit...",
+    "cardId": "ID Kartu",
+    "character": "Karakter",
+    "charLabel": "Karakter",
+    "charPlaceholder": "Pilih sebuah karakter...",
+    "rarityLabel": "Rarity",
+    "showFullInfo": "Tampilkan info lengkap"
+  },
+  "resultsFound": "{{count}} hasil ditemukan."
+}
