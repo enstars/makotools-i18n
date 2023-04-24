@@ -1,0 +1,18 @@
+{
+  "cards": "Карты",
+  "story": "История",
+  "scout": "Скаут",
+  "song": "Песня",
+  "loginBookmark": "Авторизуйтесь, чтобы добавить в закладки",
+  "comingSoon": "Скоро, ожидайте!",
+  "scoutTitle": "Скаут! {{scout}}",
+  "past": "Завершён",
+  "ongoing": "Онгоинг",
+  "upcoming": "Ожидается",
+  "diaScout": "Дайя скаут",
+  "ptSummary": "Карты в <0>{{scout}}</0> скауте дают бонус к очкам ивента <0>{{event}}</0>! ",
+  "eventPointBonus": "Бонус очков к ивенту",
+  "cardCopies": "Копии карты",
+  "cardRarity": "Редкость карты",
+  "translationCredit": "Summary translated by"
+}
