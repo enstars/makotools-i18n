@@ -1,0 +1,19 @@
+{
+  "calendarHeader": "Игровой календарь",
+  "calendar": {
+    "month": "Месяц",
+    "day": "День"
+  },
+  "monthViewLabels": {
+    "birthday": "HBD {{name}}!",
+    "fs": "{{name}} ФС",
+    "scout": "СК! {{name}}",
+    "event": "{{name}}"
+  },
+  "eventNames": {
+    "birthday": "День рождения {{name}}",
+    "fs": "{{name}}",
+    "scout": "Скаут! {{name}}",
+    "event": "{{name}}"
+  }
+}
