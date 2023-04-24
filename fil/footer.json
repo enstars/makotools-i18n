@@ -1,13 +1,13 @@
 {
   "patreonTitle": "Suportahan kami sa Patreon!",
-  "patreonDesc": "Kuha ng mga eksklusibo na perks at beta na features!",
+  "patreonDesc": "Kumuha ng mga eksklusibong perks at beta na features!",
   "links": {
     "issues": "Mga Isyu at Payo",
-    "contact": "I-contact mo kami",
+    "contact": "I-contact kami",
     "about": "Tungkol sa MakoGamit",
     "guidelines": "Alituntunin ng Komunidad",
-    "tos": "Tuntunin ng Serbisyo",
+    "tos": "Tuntunin ng Serbisyo\n ",
     "privacyPolicy": "Privacy"
   },
-  "disclaimer": "Ang MakoGamit ay isang hindi komersyal at open-source proyekto ng mga fans. Hindi opisyal o may kaugnayan and MakoGamit sa Ensemble Stars!!, Cacalia Studio, Happy Elements K.K, o Happy Elements sa anumang uri. Lahat ng mga assets ay maymay-ari ng kanilang may-ari."
+  "disclaimer": "Ang MakoGamit ay hindi komersyal at isang open-source proyekto ng mga fans. Hindi opisyal o may kaugnayan ang MakoGamit sa Ensemble Stars!!, Cacalia Studio, Happy Elements K.K, o Happy Elements sa anumang uri. Lahat ng mga assets ay pagmaymay-ari ng kanilang may-ari."
 }
