@@ -1,3 +1,12 @@
 {
-  "test": "마코툴즈에 오신것을 환영합니다!"
+  "test": "마코툴즈에 오신것을 환영합니다!",
+  "search": {
+    "searchLabel": "Search",
+    "searchOptions": "Search options",
+    "sortLabel": "Sort by",
+    "sortTooltip": "Toggle ascending/descending",
+    "resetFilters": "Reset all filters",
+    "startDate": "Start Date",
+    "sortPlaceholder": "Select sorting option..."
+  }
 }
