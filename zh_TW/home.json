@@ -8,15 +8,14 @@
     "fs": "{{name}}"
   },
   "event": {
-    "start": "即將於【日期】開啟",
-    "end": "即將於【日期】停止",
+    "start": "<0>Starts in</0> <1>{{time}}</1>",
+    "end": "<0>Ends in</0> <1>{{time}}</1>",
     "current": "最新活動",
     "next": "下個活動",
     "seeAll": "查看所有活動",
     "eventCalculator": "活動計算機"
   },
   "scout": {
-    "end": "即將於【日期】停止",
     "current": "最新招募",
     "seeAll": "查看所有招募",
     "scout": "招募！{{name}}",
@@ -33,16 +32,17 @@
   },
   "recommended": {
     "title": "推薦活動",
-    "becauseYouLike": "因為您喜歡",
+    "becauseYouLike": "Because you like <0>{{character}}</0>",
     "recommendedAlert": "推薦内容是基於您的個人資料上列出的【最喜歡的角色】和【最喜歡的組合】",
     "noRecommendations": "沒有推薦活動。請把您最喜歡的角色和組合添加到<0>你的資料</0>中去！",
     "sadHokke": "看來您誰都不喜歡……連 {{random}} 也不喜歡嗎？",
     "akehoshi": "明星",
     "yuuki": "遊木",
     "explanation": "（您在您個人資料上寫了您討厭偶像夢幻祭）",
-    "unavailable": "沒有即將推薦活動"
+    "unavailable": "沒有即將推薦活動",
+    "start": "Starts in {{time}}"
   },
-  "--": "{{friend}} 現在是你的好友了！",
+  "--": "--",
   "next": "下一頁",
   "prev": "上一頁"
 }
