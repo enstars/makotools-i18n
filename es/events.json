@@ -1,0 +1,25 @@
+{
+  "title": "Eventos",
+  "song": "Canción de grupo",
+  "tour": "Tour",
+  "shuffle": "Shuffle",
+  "scout": "Scout de Evento",
+  "featureScout": "Feature Scout",
+  "search": {
+    "eventId": "ID del Evento",
+    "searchPlaceholder": "Escribe el nombre de un evento...",
+    "unitsLabel": "Grupos",
+    "unitsPlaceholder": "Selecciona un grupo...",
+    "charLabel": "Personajes",
+    "charPlaceholder": "Selecciona un personaje"
+  },
+  "event": {
+    "tbaDesc": "La descripción del evento se anunciará pronto.",
+    "start": "Inicio",
+    "end": "Fin",
+    "estimateDesc": "Este evento no está disponible en el servidor global aún,",
+    "estimate": "Las fechas son estimadas.",
+    "addBookmark": "Guardar este evento",
+    "removeBookmark": "Eliminar de páginas guardadas"
+  }
+}
