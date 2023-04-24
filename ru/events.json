@@ -10,7 +10,7 @@
     "searchPlaceholder": "Введите название ивента...",
     "unitsLabel": "Поиск по юнитам",
     "unitsPlaceholder": "Выберете юнит...",
-    "charLabel": "Поиск по персонажам",
+    "charLabel": "Персонажи",
     "charPlaceholder": "Выберете персонажа..."
   },
   "event": {
