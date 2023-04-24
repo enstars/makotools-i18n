@@ -1,0 +1,13 @@
+{
+  "title": "Scouts",
+  "scoutId": "ID del Scout",
+  "startDate": "Fecha de incio",
+  "searchPlaceholder": "Escribe el nombre de un scout...",
+  "charLabel": "Featured Characters",
+  "charPlaceholder": "Selecciona un personaje...",
+  "event": "Evento",
+  "feature": "Feature",
+  "scouts": "Scouts",
+  "past": "Anteriores",
+  "ongoing": "En curso"
+}
