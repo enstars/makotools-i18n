@@ -33,7 +33,7 @@
   "recommended": {
     "title": "Empfohlene Kampagnen",
     "becauseYouLike": "Da du <0>{{character}} </0>magst",
-    "recommendedAlert": "Empfehlungen basieren auf den Lieblingscharakteren und -gruppen, die auf deinem Profil angegeben sind.",
+    "recommendedAlert": "Empfehlungen basieren auf den Lieblingscharakteren und -units, die auf deinem Profil angegeben sind.",
     "noRecommendations": "Es sind keine empfohlenen Kampagnen verfügbar. Vielleicht solltest du deine Lieblingscharaktere oder -units zu <0>deinem Profil</0> hinzufügen!",
     "sadHokke": "Sieht so aus, als würdest du niemanden mögen...nicht einmal {{random}}? ",
     "akehoshi": "Akehoshi",
