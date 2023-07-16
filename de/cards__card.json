@@ -5,9 +5,9 @@
   "flash": "Flash",
   "stats": {
     "heading": "Stats",
-    "showDetailedStats": "Show detailed stats",
-    "detailedStats": "Detailed stats",
-    "maxStats": "Max stats"
+    "showDetailedStats": "Detaillierte Stats anzeigen",
+    "detailedStats": "Detaillierte Stats",
+    "maxStats": "Maximale Stats"
   },
   "skills": {
     "heading": "Skills",
@@ -15,13 +15,13 @@
     "liveSliderLabel": "Lvl. {{level}}",
     "supportLabel": "Support Lvl.",
     "supportSliderLabel": "Lvl. {{level}}",
-    "center": "center",
-    "live": "live",
-    "support": "support"
+    "center": "Center",
+    "live": "Live",
+    "support": "Support"
   },
   "gallery": {
     "heading": "Galerie",
-    "fullCgs": "Full CGs",
+    "fullCgs": "Vollständiges CG",
     "renders": "Transparente Render",
     "card": "Karte"
   }
