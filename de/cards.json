@@ -2,13 +2,13 @@
   "title": "Karten",
   "search": {
     "searchPlaceholder": "Kartennamen eingeben...",
-    "sortPlaceholder": "Wähle eine Gruppe...",
+    "sortPlaceholder": "Wähle ein Unit...",
     "cardId": "Kartennummer",
     "character": "Charakter",
     "charLabel": "Charaktere",
     "charPlaceholder": "Charakter auswählen...",
     "rarityLabel": "Seltenheit",
-    "showFullInfo": "Show full info"
+    "showFullInfo": "Gesamte Info anzeigen"
   },
-  "resultsFound": "{{count}} results found."
+  "resultsFound": "{{count}} Ergebnisse gefunden."
 }
