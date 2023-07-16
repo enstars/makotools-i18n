@@ -1,6 +1,6 @@
 {
   "title": "Events",
-  "song": "Gruppensong",
+  "song": "Unit Song",
   "tour": "Tour",
   "shuffle": "Shuffle",
   "scout": "Event Scout",
@@ -8,17 +8,17 @@
   "search": {
     "eventId": "Eventnummer",
     "searchPlaceholder": "Eventnamen eingeben...",
-    "unitsLabel": "Featured Units",
-    "unitsPlaceholder": "Wähle eine Gruppe...",
-    "charLabel": "Featured Characters",
+    "unitsLabel": "Vorgestellte Units",
+    "unitsPlaceholder": "Wähle ein Unit...",
+    "charLabel": "Vorgestellte Charaktere",
     "charPlaceholder": "Charakter auswählen..."
   },
   "event": {
-    "tbaDesc": "Event description to be announced soon.",
+    "tbaDesc": "Eventbeschreibung wird bald bekanntgegeben.",
     "start": "Anfang",
     "end": "Ende",
-    "estimateDesc": "This event is not available on the global server yet.",
-    "estimate": "Dates are estimates",
+    "estimateDesc": "Dieses Event ist noch nicht auf dem weltweiten Server verfügbar.",
+    "estimate": "Daten sind Schätzungen",
     "addBookmark": "Dieses Event zu Lesezeichen hinzufügen",
     "removeBookmark": "Von Lesezeichen entfernen"
   }
