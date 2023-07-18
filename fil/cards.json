@@ -1,0 +1,14 @@
+{
+  "title": "Cards",
+  "search": {
+    "searchPlaceholder": "Mag-type ng pangalan ng card...",
+    "sortPlaceholder": "Pumili ng unit...",
+    "cardId": "Card ID",
+    "character": "Character",
+    "charLabel": "Characters",
+    "charPlaceholder": "Pumili ng character...",
+    "rarityLabel": "Rarity",
+    "showFullInfo": "Ipakita ang buong impormasyon"
+  },
+  "resultsFound": "Hindi mahanap ang {{count}}."
+}
