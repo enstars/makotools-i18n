@@ -5,7 +5,8 @@
   "banner": {
     "birthday": "¡Feliz cumpleaños, {{name}}!",
     "scout": "¡SCOUT! {{name}}",
-    "fs": "{{name}}"
+    "fs": "{{name}}",
+    "link": "Ver más información"
   },
   "event": {
     "start": "<0>Empieza en</0><1>{{time}}</1>",
