@@ -1,6 +1,6 @@
 {
   "center": {
-    "type_boost": "Meningkatkan {{substat}} semua kartu {{attribute}} sebesar {{percent}}%",
+    "type_boost": "Meningkatkan stat {{substat}} semua kartu {{attribute}} sebesar {{percent}}%",
     "type_boost_all": "Meningkatkan seluruh substat (Da, Vo, Pf) semua kartu {{attribute}} sebesar {{percent}}%",
     "all_boost": " Meningkatkan seluruh stat semua kartu sebesar {{percent}}%. Untuk lagu yang bertipe \"All\", stat akan meningkat sebesar {{percent2}}%"
   },
