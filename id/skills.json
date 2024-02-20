@@ -1,0 +1,37 @@
+{
+  "center": {
+    "type_boost": "Meningkatkan {{substat}} semua kartu {{attribute}} sebesar {{percent}}%",
+    "type_boost_all": "Meningkatkan seluruh substat (Da, Vo, Pf) semua kartu {{attribute}} sebesar {{percent}}%",
+    "all_boost": " Meningkatkan seluruh stat semua kartu sebesar {{percent}}%. Untuk lagu yang bertipe \"All\", stat akan meningkat sebesar {{percent2}}%"
+  },
+  "live": {
+    "type_1": "Meningkatkan skor sebesar {{percent}}% selama {{duration}} detik.",
+    "type_2": "Meningkatkan skor Flick Note sebesar {{percent}}% selama {{duration}} detik dan sebesar {{percent2}}% untuk note lainnya.",
+    "type_3": "Meningkatkan skor Long Note dan Slide Note sebesar {{percent}}% selama {{duration}} detik dan sebesar {{percent2}}% untuk note lainnya."
+  },
+  "support": {
+    "type_1": "Mengurangi jumlah Voltage yang menurun setelah sebuah Bad/Miss.",
+    "type_2": "Mengubah {{noteCount}} {{noteTypeFrom}} menjadi {{noteTypeTo}}.",
+    "type_3": "Mengubah {{count}} Great/Good menjadi Perfect.",
+    "type_4": "Meningkatkan jumlah Ensemble Time Gauge yang terisi setelah sebuah Good/Great/Perfect.",
+    "type_29": "Saat Ensemble Live: Meningkatkan drop rate semua Stat Pieces sebesar {{percent}}%",
+    "type_30": "Meningkatkan drop rate Idol Pieces sebesar {{percent}}%.",
+    "type_generic": "Meningkatkan drop rate Stat Pieces {{type}} sebesar {{percent}}%.",
+    "pieceNames": {
+      "smallRed": "small red",
+      "mediumRed": "medium red",
+      "largeRed": "large red",
+      "allRed": "all red",
+      "smallBlue": "small blue",
+      "mediumBlue": "medium blue",
+      "largeBlue": "large blue",
+      "allBlue": "all blue",
+      "smallYellow": "small yellow",
+      "mediumYellow": "medium yellow",
+      "largeYellow": "large yellow",
+      "allYellow": "all yellow",
+      "all": "semua"
+    }
+  },
+  "unknown": "Tidak diketahui"
+}
