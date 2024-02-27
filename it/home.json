@@ -17,7 +17,7 @@
     "eventCalculator": "Calcolatore per eventi"
   },
   "scout": {
-    "current": "Scout attuale",
+    "current": "Scout in corso",
     "seeAll": "Mostra tutti gli scout",
     "scout": "SCOUT! {{name}}",
     "fs": "{{name}}"
