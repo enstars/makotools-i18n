@@ -25,7 +25,7 @@
   "announcements": {
     "title": "Annunci del sito",
     "fetchError": "Errore nel recupero degli annunci recenti",
-    "seeAll": "Visualizza tutti gli annunci"
+    "seeAll": "Mostra tutti gli annunci"
   },
   "upcomingCampaigns": {
     "title": "Prossime campagne",
