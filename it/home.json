@@ -1,0 +1,49 @@
+{
+  "welcome": "Benvenuti su MakoTools!",
+  "supportOnPatreon": "Sostienici su Patreon!",
+  "createAccount": "Crea un account!",
+  "banner": {
+    "birthday": "Buon compleanno, {{name}}!",
+    "scout": "SCOUT! {{name}}!",
+    "fs": "{{name}}",
+    "link": "Ulteriori informazioni"
+  },
+  "event": {
+    "start": "<0>Inizia tra</0><1>{{time}}</1>",
+    "end": "<0>Finisce tra</0><1>{{time}}</1>",
+    "current": "Eventi attuali",
+    "next": "Prossimi eventi",
+    "seeAll": "Tutti gli eventi",
+    "eventCalculator": "Calcolatore per eventi"
+  },
+  "scout": {
+    "current": "Scout attuale",
+    "seeAll": "Visualizza tutti gli scout",
+    "scout": "SCOUT! {{name}}",
+    "fs": "{{name}}"
+  },
+  "announcements": {
+    "title": "Annunci del sito",
+    "fetchError": "Errore nel recupero degli annunci recenti",
+    "seeAll": "Visualizza tutti gli annunci"
+  },
+  "upcomingCampaigns": {
+    "title": "Prossime campagne",
+    "seeAll": "Visualizza il calendario completo"
+  },
+  "recommended": {
+    "title": "Campagne consigliate",
+    "becauseYouLike": "Dato che ti piace <0>{{character}}</0>",
+    "recommendedAlert": "I suggerimenti si basano sui personaggi e le unit preferite presenti sul tuo profilo.",
+    "noRecommendations": "Non abbiamo campagne da suggerirti. Prova ad aggiungere i tuoi personaggi e le tue unit preferite sul tuo <0>profilo</0>!",
+    "sadHokke": "Sembra che non ti piaccia nessuno... Nemmeno {{random}}?",
+    "akehoshi": "Akehoshi",
+    "yuuki": "Yuuki",
+    "explanation": "(Secondo il tuo profilo, odi Ensemble Stars)",
+    "unavailable": "Non possiamo suggerirti alcuna campagna futura.",
+    "start": "Inizia tra {{time}}"
+  },
+  "--": "--",
+  "next": "Precedente",
+  "prev": "Successivo"
+}
