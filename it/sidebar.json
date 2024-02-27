@@ -1,0 +1,29 @@
+{
+  "links": {
+    "characters": "Personaggi",
+    "cards": "Carte",
+    "events": "Eventi",
+    "scouts": "Scout",
+    "stories": "Storie",
+    "calendar": "Calendario",
+    "about": "Informazioni",
+    "patreon": "Patreon",
+    "user": "Utente"
+  },
+  "searchbarMessage": "Cerca...",
+  "menu": {
+    "quickSettings": "Impostazioni rapide",
+    "darkMode": "Modalità notte",
+    "userTheme": "Tema",
+    "locale": "Lingua",
+    "account": "Account",
+    "settings": "Impostazioni",
+    "bookmarks": "Segnalibri",
+    "logout": "Esci",
+    "login": "Log in",
+    "notLoggedIn": "Non hai effettuato l'accesso",
+    "loading": "Caricamento..."
+  },
+  "collapseSidebar": "Chiudi",
+  "breadcrumbTitle": "MakoTools"
+}
