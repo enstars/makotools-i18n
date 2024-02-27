@@ -1,0 +1,37 @@
+{
+  "center": {
+    "type_boost": "Aumenta {{substat}} di ogni carta di tipo {{attribute}} del {{percent}}%.",
+    "type_boost_all": "Aumenta tutte le statistiche (Da, Vo, Pf) di ogni carta di tipo {{attribute}} del {{percent}}%.",
+    "all_boost": "Aumenta tutte le statistiche di ogni tipo di carta del {{percent}}%. Nelle canzoni di tipo \"Tutti\", questo incremento è del {{percent2}}%."
+  },
+  "live": {
+    "type_1": "Aumenta il punteggio del {{percent}}% per {{duration}} secondi.",
+    "type_2": "Aumenta il punteggio delle note Flick del {{percent}}% per {{duration}} secondi e per tutte le altre note del {{percent2}}%.",
+    "type_3": "Aumenta il punteggio di note Lunghe e Slide del {{percent}}% per {{duration}} secondi e delle altre note del {{percent2}}%."
+  },
+  "support": {
+    "type_1": "Riduce il Voltaggio perso dopo un Bad/Miss.",
+    "type_2": "Trasforma {{noteCount}} {{noteTypeFrom}} in {{noteTypeTo}}.",
+    "type_3": "Trasforma {{count}} Great/Good in Perfect.",
+    "type_4": "Aumenta l'incremento dell'Ensemble Time Gauge dopo un Good/Great/Perfect.",
+    "type_29": "Durante l'Ensemble Live: Aumenta la possibilità di ottenere ogni tipo di Frammenti Stat del {{percent}}%.",
+    "type_30": "Aumenta la possibilità di ottenere Frammenti Idol del {{percent}}%.",
+    "type_generic": "Aumenta la possibilità di ottenere Frammenti Stat di tipo {{type}} del {{percent}}%.",
+    "pieceNames": {
+      "smallRed": "rossi piccoli",
+      "mediumRed": "rossi medi",
+      "largeRed": "rossi grandi",
+      "allRed": "rossi (tutti)",
+      "smallBlue": "blu piccoli",
+      "mediumBlue": "blu medi",
+      "largeBlue": "blu grandi",
+      "allBlue": "blu (tutti)",
+      "smallYellow": "gialli piccoli",
+      "mediumYellow": "gialli medi",
+      "largeYellow": "gialli grandi",
+      "allYellow": "gialli (tutti)",
+      "all": "tutti"
+    }
+  },
+  "unknown": "Ignoto"
+}
