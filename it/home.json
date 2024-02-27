@@ -11,7 +11,7 @@
   "event": {
     "start": "<0>Inizia tra</0><1>{{time}}</1>",
     "end": "<0>Finisce tra</0><1>{{time}}</1>",
-    "current": "Eventi attuali",
+    "current": "Eventi in corso",
     "next": "Prossimi eventi",
     "seeAll": "Mostra tutti gli eventi",
     "eventCalculator": "Calcolatore per eventi"
