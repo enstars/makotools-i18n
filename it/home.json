@@ -18,7 +18,7 @@
   },
   "scout": {
     "current": "Scout attuale",
-    "seeAll": "Visualizza tutti gli scout",
+    "seeAll": "Mostra tutti gli scout",
     "scout": "SCOUT! {{name}}",
     "fs": "{{name}}"
   },
