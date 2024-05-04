@@ -89,7 +89,7 @@
     "charId": "ID Karakter",
     "cardId": "ID Kartu",
     "amount": "Jumlah kartu",
-    "rarity": "Card rarity",
+    "rarity": "Rarity kartu",
     "flipOrder": "Balik urutan",
     "cardCopiesInput": "Jumlah salinan kartu"
   },
@@ -105,9 +105,9 @@
     "blockquote": "Blockquote",
     "horizontalRule": "Three dashes make... <0></0>---<0></0> ...a dividing line.",
     "properHr": "Three dashes make... <0></0> ... a dividing line.",
-    "linkText": "Link Text",
+    "linkText": "Teks Link",
     "pepetired": "Isara Mao!",
-    "underlinedText": "Underlined Text",
+    "underlinedText": "Teks Digaris-bawahi",
     "customEmoji": "Kamu juga bisa menggunakan custom emoji kami di bio-mu!",
     "emojiCredit": "Emoji non-official kami dibuat oleh <0>@neeneemi</0>! Silahkan cek artistnya!",
     "link": "Kamu bisa menggunakan markdown pada bio-mu (GFM) <0>Perlu bantuan?</0>"
