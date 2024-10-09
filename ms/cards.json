@@ -1,14 +1,14 @@
 {
   "title": "Kad",
   "search": {
-    "searchPlaceholder": "Type a card name...",
-    "sortPlaceholder": "Pick a unit...",
-    "cardId": "Card ID",
-    "character": "Character",
-    "charLabel": "Characters",
-    "charPlaceholder": "Pick a character...",
-    "rarityLabel": "Rarity",
-    "showFullInfo": "Show full info"
+    "searchPlaceholder": "Taipkan nama kad... ",
+    "sortPlaceholder": "Pilih unit... ",
+    "cardId": "ID Kad",
+    "character": "Watak",
+    "charLabel": "Watak-watak",
+    "charPlaceholder": "Pilih watak... ",
+    "rarityLabel": "Kejarangan",
+    "showFullInfo": "Tunjuk maklumat penuh"
   },
-  "resultsFound": "{{count}} results found."
+  "resultsFound": "{{count}} hasil dijumpai"
 }
