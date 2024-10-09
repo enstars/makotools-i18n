@@ -4,25 +4,25 @@
   "glitter": "Glitter",
   "flash": "Flash",
   "stats": {
-    "heading": "Stats",
-    "showDetailedStats": "Show detailed stats",
-    "detailedStats": "Detailed stats",
-    "maxStats": "Max stats"
+    "heading": "Statistik",
+    "showDetailedStats": "Tunjuk statistik terperinci",
+    "detailedStats": "Statistik berperinci",
+    "maxStats": "Statistik Maksimum"
   },
   "skills": {
-    "heading": "Skills",
+    "heading": "Kemahiran",
     "liveLabel": "Live Lvl.",
     "liveSliderLabel": "Lvl. {{level}}",
-    "supportLabel": "Support Lvl.",
+    "supportLabel": "Lvl. sokongan",
     "supportSliderLabel": "Lvl. {{level}}",
-    "center": "center",
-    "live": "live",
-    "support": "support"
+    "center": "Center",
+    "live": "Live",
+    "support": "Sokongan"
   },
   "gallery": {
     "heading": "Galeri",
-    "fullCgs": "Full CGs",
-    "renders": "Transparent Renders",
+    "fullCgs": "CG penuh",
+    "renders": "Render Lut Sinar",
     "card": "Kad"
   }
 }
