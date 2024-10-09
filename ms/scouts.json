@@ -1,0 +1,13 @@
+{
+  "title": "Scouts",
+  "scoutId": "Scout ID",
+  "startDate": "Tarikh Bermula",
+  "searchPlaceholder": "Taipkan nama scout...",
+  "charLabel": "Watak yang Ditampilkan",
+  "charPlaceholder": "Pilih watak... ",
+  "event": "Event",
+  "feature": "Feature",
+  "scouts": "Scouts",
+  "past": "Masa Lampau",
+  "ongoing": "Sedang berjalan"
+}
