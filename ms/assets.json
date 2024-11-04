@@ -1,0 +1,16 @@
+{
+  "title": "Aset-aset",
+  "search": {
+    "searchPlaceholder": "Cari nama mana-mana kad...",
+    "id": "ID",
+    "charLabel": "Watak",
+    "charPlaceholder": "Cari nama mana-mana watak...",
+    "assetTypeLabel": "Jenis Aset",
+    "assetType": {
+      "frameless": "Tanpa Bingkai",
+      "cg": "CG",
+      "render": "Render"
+    }
+  },
+  "downloadTypeTooltip": "Memuat turun {{jenis}}"
+}
