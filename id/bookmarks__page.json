@@ -1,0 +1,21 @@
+{
+  "search": {
+    "searchPlaceholder": "Cari nama event atau scout...",
+    "sortByID": "ID",
+    "sortByAlphabetical": "Menurut Abjad",
+    "sortByEventDate": "Tanggal Campaign",
+    "noMatch": "Tidak ada bookmark yang cocok dengan filter ditemukan."
+  },
+  "noBookmarks": "Kamu belum punya bookmark apa pun. Yuk mulai bookmark event dan scout yang kamu sukai!",
+  "campaignStarts": "Mulai pada tanggal <0>{{date}}</0>",
+  "campaignStartsUnknown": "Tanggal tidak diketahui",
+  "countdown": {
+    "ended": "Telah Berakhir",
+    "ongoing": "Sedang Berlangsung",
+    "upcomingDays_one": "{{count}} hari",
+    "upcomingDays_other": "{{count}} hari",
+    "upcomingHours_one": "{{count}} jam",
+    "upcomingHours_other": "{{count}} jam",
+    "unknown": "Tidak diketahui"
+  }
+}
