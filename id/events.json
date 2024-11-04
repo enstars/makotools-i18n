@@ -1,25 +1,24 @@
 {
   "title": "Event",
-  "song": "Unit Song",
-  "tour": "Tour",
-  "shuffle": "Shuffle",
-  "scout": "Event Scout",
-  "featureScout": "Feature Scout",
   "search": {
-    "eventId": "ID Event",
-    "searchPlaceholder": "Ketik judul event...",
+    "sortByEventID": "Event ID",
+    "sortByEventDate": "Tanggal Event",
+    "searchPlaceholder": "Cari nama event...",
     "unitsLabel": "Unit yang Tampil",
     "unitsPlaceholder": "Pilih sebuah unit...",
     "charLabel": "Karakter yang Tampil",
-    "charPlaceholder": "Pilih sebuah karakter..."
+    "charPlaceholder": "Pilih sebuah karakter...",
+    "noMatch": "Tidak ada event yang cocok dengan filter ditemukan."
   },
   "event": {
     "tbaDesc": "Deskripsi event akan segera diumumkan.",
     "start": "Mulai",
     "end": "Berakhir",
-    "estimateDesc": "Event ini belum tersedia di server global.",
+    "estimateDesc": "Event ini belum tersedia di server yang dipilih.",
     "estimate": "Tanggal yang tertera merupakan estimasi",
+    "estimateCompact": "(Est.)",
     "addBookmark": "Bookmark event ini",
-    "removeBookmark": "Hapus dari bookmark"
+    "removeBookmark": "Hapus dari bookmark",
+    "dateUnknown": "Tanggal event untuk region ini tidak diketahui."
   }
 }
