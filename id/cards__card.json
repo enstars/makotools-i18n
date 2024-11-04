@@ -24,5 +24,12 @@
     "fullCgs": "CG penuh",
     "renders": "Render Transparan",
     "card": "Kartu"
+  },
+  "obtain": {
+    "associatedEvent": "Event Terkait",
+    "associatedScout": "Scout Terkait",
+    "moreDetails": "Rincian Lebih Lanjut",
+    "eventMethod": "Event",
+    "scoutMethod": "Scout"
   }
 }
