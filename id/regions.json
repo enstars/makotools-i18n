@@ -1,0 +1,23 @@
+{
+  "current_region": "Region saat ini: {{region}}",
+  "incorrect_region": "Ini adalah halaman untuk region <0>{{region}}</0>.",
+  "switch_to_correct_region": "Beralih kembali ke {{region}}",
+  "change_region_shorthand": "Beralih ke...",
+  "change_region": "Ganti region ke...",
+  "region": {
+    "jp": "Jepang",
+    "cn": "Mainland China",
+    "kr": "Korea",
+    "tw": "Taiwan",
+    "en": "Global (English)"
+  },
+  "region_shorthand": {
+    "jp": "Jepang",
+    "cn": "China",
+    "kr": "Korea",
+    "tw": "Taiwan",
+    "en": "Global (EN)"
+  },
+  "stay_on_same_region": "Tetap di region {{region}}",
+  "default_region_info": "Kaca-Mako sekarang mendukung region! Region defaultmu adalah <0>{{region}}</0>, tapi kamu dapat mengubahnya melalui <1>Pengaturan</1>."
+}
