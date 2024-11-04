@@ -1,12 +1,24 @@
 {
   "test": "Selamat datang di Kaca-Mako!",
   "search": {
+    "charLabel": "Karakter",
+    "charPlaceholder": "Cari nama karakter...",
     "searchLabel": "Cari",
     "searchOptions": "Opsi pencarian",
     "sortLabel": "Urut berdasarkan",
     "sortTooltip": "Toggle naik/menurun",
-    "resetFilters": "Reset semua filter",
+    "resetFilters": "Reset seluruhnya",
     "startDate": "Tanggal Mulai",
-    "sortPlaceholder": "Pilih opsi pengurutan..."
+    "sortPlaceholder": "Pilih opsi pengurutan...",
+    "regionForDates": "Region Game",
+    "regionForDatesDesc": "Untuk menampilkan tanggal yang relevan",
+    "relevance": "Relevansi",
+    "filters": "Filter",
+    "viewOptions": "Opsi Tampilan",
+    "density": "Style Kartu",
+    "full": "Full",
+    "compact": "Compact",
+    "list": "List",
+    "resultsFound": "{{count}} hasil ditemukan."
   }
 }
