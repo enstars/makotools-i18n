@@ -8,7 +8,7 @@
     "lastFirst": "Nama keluarga, Nama depan",
     "lastFirstExample": "Contoh: Akehoshi Subaru",
     "nameOrderLabel": "Urutan nama yang lebih disukai",
-    "nameOrderDesc": "Bahasa Jepang, Cina, dan Korea akan selalu menggunakan urutan Nama keluarga, Nama depan.",
+    "nameOrderDesc": "Kaca-Mako bahasa Jepang, China, dan Korea akan selalu memakai urutan Nama Keluarga, Nama Depan.",
     "jp": "Jepang",
     "cn": "Mainland China",
     "kr": "Korea",
@@ -16,7 +16,8 @@
     "en": "Global (English)",
     "regionLabel": "Region Game",
     "regionDesc": "Pengaturan ini saat ini belum memiliki pengaruh pada konten.",
-    "regionPlaceholder": "Jepang (Default)"
+    "regionDescNew": "Pilih region game yang akan menjadi default untuk halaman event dan scout.",
+    "regionPlaceholder": "Global (English) (Default)"
   },
   "appearance": {
     "name": "Tampilan",
