@@ -10,7 +10,7 @@
   "ongoing": "Sedang Berlangsung",
   "upcoming": "Mendatang",
   "diaScout": "Dia scout pool",
-  "ptSummary": "Kartu di scout <0>{{scout}}</0> memiliki bonus event point untuk event <0>{{event}}</0>!",
+  "ptSummary": "Kartu di scout <0>{{scout}}</0> memberikan bonus event point untuk event <0>{{event}}</0>!",
   "eventPointBonus": "Bonus event point",
   "cardCopies": "Salinan kartu",
   "cardRarity": "Rarity kartu",
