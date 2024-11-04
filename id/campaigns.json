@@ -1,0 +1,38 @@
+{
+  "full": {
+    "event": {
+      "song": "Event Unit Song",
+      "tour": "Event Tour",
+      "shuffle": "Event Shuffle",
+      "special": "Special Event"
+    },
+    "scout": {
+      "scout": "Event Scout",
+      "feature": "Feature Scout",
+      "feature scout": "Feature Scout"
+    },
+    "others": {
+      "birthday": "Birthday Campaign",
+      "anniversary": "Anniversary Campaign",
+      "other": "Campaign Lainnya"
+    }
+  },
+  "short": {
+    "event": {
+      "song": "Unit Song",
+      "tour": "Tour",
+      "shuffle": "Shuffle",
+      "special": "Special"
+    },
+    "scout": {
+      "scout": "Event",
+      "feature": "Feature",
+      "feature scout": "Feature"
+    },
+    "others": {
+      "birthday": "Birthday",
+      "anniversary": "Anniversary",
+      "other": "Lainnya"
+    }
+  }
+}
