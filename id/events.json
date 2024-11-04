@@ -1,7 +1,7 @@
 {
   "title": "Event",
   "search": {
-    "sortByEventID": "Event ID",
+    "sortByEventID": "ID Event",
     "sortByEventDate": "Tanggal Event",
     "searchPlaceholder": "Cari nama event...",
     "unitsLabel": "Unit yang Tampil",
