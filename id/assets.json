@@ -1,0 +1,16 @@
+{
+  "title": "Aset",
+  "search": {
+    "searchPlaceholder": "Cari nama kartu...",
+    "id": "ID",
+    "charLabel": "Karakter",
+    "charPlaceholder": "Cari nama karakter...",
+    "assetTypeLabel": "Tipe Aset",
+    "assetType": {
+      "frameless": "Frameless",
+      "cg": "CG",
+      "render": "Render"
+    }
+  },
+  "downloadTypeTooltip": "Download {{type}}"
+}
