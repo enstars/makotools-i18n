@@ -4,7 +4,9 @@
       "song": "Unit Song Event",
       "tour": "Tour Event",
       "shuffle": "Shuffle Event",
-      "special": "Special Event"
+      "special": "Special Event",
+      "spotlight": "Spotlight Event",
+      "merge": "Merge Game"
     },
     "scout": {
       "scout": "Theme Scout",
@@ -24,7 +26,9 @@
       "song": "Unit Song",
       "tour": "Tour",
       "shuffle": "Shuffle",
-      "special": "Special"
+      "special": "Special",
+      "spotlight": "Spotlight",
+      "merge": "Merge"
     },
     "scout": {
       "scout": "Event",
