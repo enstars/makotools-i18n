@@ -2,6 +2,8 @@
   "song": "Unit Song Event",
   "tour": "Tour Event",
   "shuffle": "Shuffle Event",
+  "spotlight": "Spotlight Event",
+  "merge": "Merge Game",
   "scout": "Theme Scout",
   "feature scout": "Featured Scout",
   "birthday": "Birthday",
