@@ -14,6 +14,7 @@
     "type_2": "Mengubah {{noteCount}} {{noteTypeFrom}} menjadi {{noteTypeTo}}.",
     "type_3": "Mengubah {{count}} Great/Good menjadi Perfect.",
     "type_4": "Meningkatkan jumlah Ensemble Time Gauge yang terisi setelah sebuah Good/Great/Perfect.",
+    "type_24": "Meningkatkan drop rate Growth Tickets sebanyak {{percent}}x.",
     "type_29": "Saat Ensemble Live: Meningkatkan drop rate semua Stat Pieces sebesar {{percent}}%",
     "type_30": "Meningkatkan drop rate Idol Pieces sebesar {{percent}}%.",
     "type_generic": "Meningkatkan drop rate Stat Pieces {{type}} sebesar {{percent}}%.",
